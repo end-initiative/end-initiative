@@ -1,0 +1,9 @@
+title: End Initiative Campaigns
+description: Information for campaigns run by End Initiative
+baseurl: ""
+url: "https://campaigns.end-initiative.com/"
+theme: jekyll-theme-modernist
+
+collections:
+  content:
+    permalink: /:path

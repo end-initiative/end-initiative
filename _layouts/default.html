@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    {% seo %}
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        {% if site.description or site.github.project_tagline %}
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
+        {% endif %}
+        <br>
+        <nav>
+          {% for item in site.data.navigation %}
+            <a href="{{ item.link }}">
+              {{ item.name }}
+            </a>
+            {% unless item == site.data.navigation.last %}&nbsp;-&nbsp;{% endunless %}
+          {% endfor %}
+        </nav>
+      </header>
+      <section>
+        {{ content }}
+      </section>
+    </div>
+    <footer>
+      {% if site.github.is_project_page %}
+        <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+      {% endif %}
+    </footer>
+  </body>
+</html>
