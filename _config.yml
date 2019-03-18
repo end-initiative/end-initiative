@@ -1,7 +1,7 @@
-title: End Initiative Campaigns
-description: Information for campaigns run by End Initiative
+title: Remnants of Faerun
+description: Information on the "Remnants of Faerun" campaign run by End Initiative
 baseurl: ""
-url: "https://campaigns.end-initiative.com/"
+url: "https://remnants-of-faerun.end-initiative.com/"
 theme: jekyll-theme-modernist
 
 collections:

@@ -3,7 +3,6 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    {% seo %}
     <link rel="stylesheet" href="/assets/css/style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
   </head>
@@ -25,6 +24,7 @@
         </nav>
       </header>
       <section>
+        <h1>{{ page.title }}</h2>
         {{ content }}
       </section>
     </div>
