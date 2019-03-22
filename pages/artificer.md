@@ -23,7 +23,9 @@ permalink: /artificer/
   ## Banished
   
   Type: Weapon Enchantment
+  
   Applicable: Any Weapon
+  
   Cost: 200gp
   
   Description:
@@ -32,12 +34,15 @@ permalink: /artificer/
     To reclaim a banished weapon, a small portal of shadows, no larger than 2 feet in diameter opens inches away from your open palmed hand for you to reach in and claim it. The portal only allows for the bounded object to be placed inside of it. (Can’t have a hollow hammer enchanted with this to store things inside it.) A Banished weapon cannot be sent away and summoned within the same round.
     
     
-  - name: chill
-    type: weapon
-    applicable:
-      - Any Weapon
-    cost: 725
-    description: |
+  ## Chill
+  
+  Type: Weapon Enchantment
+  
+  Applicable: Any Weapon
+  
+  Cost: 200gp
+  
+  Description:
       This weapon is imbued with the power to chill itself to temperatures so low they could almost cause frostbite.
       The weapon stores 4 charges of this ability at a time, and requires 1 hour to recover 1 charge.
       When a charge is activated, the next successful attack performed with this weapon does an extra 1d8 cold damage, and an extra +2 cold damage for each time they are struck with this ability within 5 minutes. If an enemy is hit by 3 charges, they must succeed on a Constitution saving throw (DC 10 + 1/2 Character Level) or become frozen (immobilized) until the start of its next turn.
