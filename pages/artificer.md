@@ -18,13 +18,14 @@ permalink: /artificer/
 
 
 
-### Enchantments
+# Enchantments
 
-  # banished
-  type: weapon
-  applicable:
-  - Any Weapon
-  Cost: 200
+  ## Banished
+  
+  Type: Weapon Enchantment
+  Applicable: Any Weapon
+  Cost: 200gp
+  
   Description:
     This weapon is tied to a pocket dimension hidden on another plane and can be recalled as a Bonus Action to appear in your hand, or sent away as a free action while it dissipates into shadows and disappears from your hands.
     When freshly reclaimed, the next attack with this weapon has +1 to attack and Damage rolls.
