@@ -48,63 +48,90 @@ permalink: /artificer/
       When a charge is activated, the next successful attack performed with this weapon does an extra 1d8 cold damage, and an extra +2 cold damage for each time they are struck with this ability within 5 minutes. If an enemy is hit by 3 charges, they must succeed on a Constitution saving throw (DC 10 + 1/2 Character Level) or become frozen (immobilized) until the start of its next turn.
       Alternatively, 3 charges can be expelled to create magical glaciers occupying a 15' cube cast in front of the caster that lasts for 2 turns, ending on the casters turn. Those who start their turn in the glaciers take 1d8 cold damage, and are in difficult terrain. Entering the glaciers for the first time also causes 1d8 cold damage. Getting hit by the glacier adds one stack of Chill per time they take damage from the glacier. The glaciers magically evaporate away at the end of their time.
       Activating any amount of charges is a free action.
-  - name: flood
-    type: weapon
-    applicable:
-      - Any Melee Weapon
-    cost: 999
-    description: |
+      
+      
+  ## Flood
+  
+  Type: Weapon Enchantment
+  
+  Applicable: Any Weapon
+  
+  Cost: 500gp
+  
+  Description:
       Within this weapon is a raging core of water constantly in motion and sending a torrent of water along the edges of it whenever it is unsheathed.
       Two times per encounter as part of the Attack Action, you can loose the water inside the weapon to create an extension of water to whip at a creature. When using this effect, your weapon can reach an extra 5 feet but deals your Weapon Damage dice + Proficiency Bonus bludgeoning damage. As a constantly moving torrent, the water retreats back into the weapon at the end of your turn.
       As a bonus action, you can boil or chill the water to alter the damage caused by the water whip to become fire or cold damage for one hour. This cannot be changed again until after a chosen damage type has been in effect for the hour.
       Once per day, as a standard action you can blast a creature within 5 feet with a flood of water. They must succeed on a DC 12+Proficiency bonus Strength Saving throw or take 2d6 force damage and be pushed 1d4 squares away from the caster. On a save, the creature takes half damage and is not pushed away.
-  - name: forceful
-    type: weapon
-    applicable:
-      - Any Weapon
-    cost: 675
-    description: |
+      
+      
+  ## Forceful
+  
+  Type: Weapon Enchantment
+  
+  Applicable: Any Weapon
+  
+  Cost: 300gp
+  
+  Description:
       Backed by the fury of your blows, the forces of the arcane joins the swing with this weapon when you choose.
       When you activate a charge, the next attack done with this weapon adds 1d4 Force damage to its end result. Every consecutive blow done with this weapon adds +1 force damage while activated. At 3 consecutive hits, the target is knocked prone if it can be by the 3rd hit.
-      This weapon holds 7 charges and all charges are restored on a long rest. Alternatively, 3 charges can be expelled as a standard action to launch 1 force bolt as if using the Magic Missile spell at 1d10 force damage.
+      This weapon holds 7 charges and all charges are restored on a long rest. Alternatively, 3 charges can be expelled as a standard action to launch 1 force bolt as if using the Magic Missile spell at 1d10 force damage
       Activating any amount of charges is a free action.
-  - name: impulsing
-    type: weapon
-    applicable:
-      - Any Ranged Weapon
-    cost: 700
-    description: |
+      
+  ## Impulsing
+  
+  Type: Weapon Enchantment
+  
+  Applicable: Any Ranged Weapon
+  
+  Cost: 400gp
+  
+  Description:
       Ammunition expelled from this weapon can become charmed with arcane energy when channeled. When you expel a charge, the next shot you land with this weapon will have 1 of 3 effects of your choice:
       1. All creatures within 5 feet of the target must succeed on a DC 10+Proficiency bonus Strength Saving Throw or be pushed 5 feet away from the target
       2. All creatures within 5 feet of the target including the target must succeed on a DC 8+Proficiency bonus Dexterity Saving throw or be pulled towards the floor by a force effect, making them prone
       3.The targeted creature has a singularity placed on it, creating a pulling effect on itself that travels with them, harming it for 2 force damage for 1d6 turns. While the pulling effect lingers on the target, ranged attacks against the creature gain a +1 to attack rolls per singularity placed on it.
       The weapon stores 5 charges of this ability at a time, and requires 1 hour to recover 1 charge.
       Alternatively, all 5 charges can be expelled to create a giant singularity at a point within range for 1d6 turns. The singularity istelf does not occupy the space it is in. All creatures within 10 feet of the singularity must succeed on a DC 12+Proficiency bonus Strength saving throw or have their speed reduced to 0 and be pulled to within 5 feet of the singularity if there is room to. An affected creature can make another Strength Saving Throw at the end of their turns to resist the singularity. All creatures that end their turn within 5' of the singularity take 1d4 force damage.
-  - name: intuitive
-    type: weapon
-    applicable:
-      - Any Weapon, Any Implement
-    cost: 255
-    description: |
+      
+      
+  ## Intuitive
+  
+  Type: Weapon Enchantment
+  
+  Applicable: Any Weapon, Any Implement
+  
+  Cost: 150gp
+  
+  Description:
       This weapon is attuned to be sensitive to life energy and all the intricacies of how they work together. While wielding this weapon, you gain a +2 to Insight checks, but your visions are also increased by 20 feet. And once per day you gain 5 feet of blindsense for 12 seconds.
-  - name: loyalty
-    type: weapon
-    applicable:
-      - Any Weapon, Any Implement
-    cost: 250
-    description: |
+      
+  ## Loyalty
+  
+  Type: Weapon Enchantment
+  
+  Applicable: Any Weapon, Any Implement
+  
+  Cost: 200gp
+  
+  Description:
       Any weapon or implement enchanted with Loyalty can be recalled to your hand by saying “Return” if it is within 10’ of you as a bonus action.
       The weapon or implement will take the path of least resistance to return to its owner but cannot move if more than 5 lbs is holding it in place.
       During its return, if it collides with a creature, it will only inflict 1 damage if it is slashing or bludgeoning weapon.
       If it is a piercing weapon and collides with a creature on its return, roll an attack roll against that creature without your proficiency or attack modifiers, on a hit it inflicts a weapon die of damage and is stuck in the creature at their location.
       Implements simply move past creatures. any creature can use their Reaction to try and grab the returning Implement at a Dexterity Check of DC 10+Proficiency Bonus.
       Though you cannot recall a held or restrained weapon or implement, it will try to move towards you with the little strength it offers. The weapon can exert as much force as how much it weighs.
-  - name: lucky
-    type: weapon
-    applicable:
-      - Any Melee Weapon
-    cost: 999
-    description: |
+      
+  ## Lucky
+  
+  Type: Weapon Enchantment
+  
+  Applicable: Any Weapon
+  
+  Cost: 500gp
+  
+  Description:
       A magical weapon imbued with the blessings of Tymora. When you succeed on an attack roll against an enemy creature with this weapon, it gains a charge. Charges last for 1 hour and then reset to 0. At 4 charges, the next attack with the weapon has its critical hit range increased to 6-20. Additionally you do 4d4 extra magical damage for that attack. Charges are reset to 0 after this attack whether or not it succeeded.
   - name: lunar
     type: weapon
