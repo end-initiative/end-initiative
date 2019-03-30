@@ -25,7 +25,7 @@ permalink: /activities/
 
 When your character dedicates time to studies, they may choose a subject on the skills in your character sheet or of a specialty subject by the classes offered from the school. One academic and one physical skill can be trained or studied at a time. Each segment of time you study earns a point towards that skill or subject. You can only study one physical and one academic subject per day. At 5 points, you can attempt a d20 roll, and on a 18-20, you gain a permanent +1 misc. bonus to that skill.  Studies cannot take place during a long rest where you are recovering hit points or spell slots. While at The Spire, studies take place in the library using their resources, which never depleet. When outside The Spire, you require books to study. Books last for 5 instances of studying for whatever subject it is in.
 
-All students have a class that they naturally excelled in during their fletchling days, and carries on into their time as a Sparrow. If you gain a +2 misc. bonus to another specialty subject then you gain proficiency in that subject as well.
+All students have a class that they naturally excelled in during their fletchling days, and carries on into their time as a Sparrow. Starting as a Sparrow, you automatically have a +1 in one specialty subject and are proficient in it. From here one, you must gain a +3 misc. bonus to another specialty subject to gain proficiency in that subject as well.
 
 * Academic skills and specialty subjects:
   * Animal Handling
