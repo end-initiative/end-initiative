@@ -102,3 +102,111 @@ A member of the Blue Rings, or "Sky". Default Friendship DC 20
 
 
 A member of the Blue Rings, or "Sky". Default Friendship DC 20
+
+
+# Negitti
+
+
+![Negitti](/assets/Negitti.jpg)
+
+
+A member of the Yellow Rings, or "Warriors of Dawn". Default Friendship DC 20
+
+
+# Osperon
+
+
+![Osperon](/assets/Osperon.jpg)
+
+
+A member of the Yellow Rings, or "Warriors of Dawn". Default Friendship DC 20
+
+
+# Jess
+
+
+![Jess](/assets/Jess.jpg)
+
+
+A member of the Yellow Rings, or "Warriors of Dawn". Default Friendship DC 19
+
+
+# Korpa
+
+
+![Korpa](/assets/Korpa.jpg)
+
+
+A member of the Yellow Rings, or "Warriors of Dawn". Default Friendship DC 20
+
+
+# Tak
+
+
+![Tak](/assets/Tak.jpg)
+
+
+A member of the Yellow Rings, or "Warriors of Dawn". Default Friendship DC 20
+
+
+# Iykana
+
+
+![Iykana](/assets/Iykana.jpg)
+
+
+A member of the Yellow Rings, or "Warriors of Dawn". Default Friendship DC 20
+
+
+# Wilex
+
+
+![Wilex](/assets/Wilex.jpg)
+
+
+A member of the Black Rings, or "Shades". Default Friendship DC 20
+
+
+# Ofera
+
+
+![Ofera](/assets/Ofera.jpg)
+
+
+A member of the Black Rings, or "Shades". Default Friendship DC 20
+
+
+# Jace
+
+
+![Jace](/assets/Jace.jpg)
+
+
+A member of the Black Rings, or "Shades". Default Friendship DC 20
+
+
+# Uthore
+
+
+![Uthore](/assets/Uthore.jpg)
+
+
+A member of the Black Rings, or "Shades". Default Friendship DC 20
+
+
+# Tweetsin
+
+
+![Tweetsin](/assets/Tweetsin.jpg)
+
+
+A member of the Black Rings, or "Shades". Default Friendship DC 20
+
+
+# Zrenda
+
+
+![Zrenda](/assets/Zrenda.jpg)
+
+
+A member of the Black Rings, or "Shades". Default Friendship DC 20
