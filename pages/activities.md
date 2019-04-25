@@ -75,10 +75,15 @@ There is no penalty for not making the DC, you will just need another instance o
 The artificer’s services are up for graduated students. Every new graduate is allowed a maximum of 2 items to be improved as a graduation gift. Any further improvements require points or gold. Each point is the equivalent of 100 gold when it comes to enchantments. Prices are normally rounded up for uneven amounts, but the Artificers have been known to allow a smidge of haggling.
 
 You can also volunteer your magical services and work for the Artificer. You must be proficient in Arcana or have any of these spells to be useful to him however.
+
 **Druidcraft
+
 **Guidance
+
 **Produce Flame
+
 **Message
+
 **Mage Hand
 
 You can only work for the Artificer on Secondday and Eighthday. You will roll 2d4 and recieve 2 gold per the total you roll. This determines how busy he worked you and thought you earned.
