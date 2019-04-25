@@ -4,7 +4,8 @@ layout: default
 permalink: /characters/
 ---
 
-**Students
+*Students
 
 Atresa
+
 ![Atresa](/assets/Atresa.jpg)  
