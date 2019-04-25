@@ -25,7 +25,7 @@ permalink: /activities/
 
 When your character dedicates time to studies, they may choose a subject on the skills in your character sheet or of a specialty subject by the classes offered from the school. One academic and one physical skill can be trained or studied at a time. Each segment of time you study earns a point towards that skill or subject. You can only study one physical and one academic subject per day. At 5 points, you can attempt a d20 roll, and on a 18-20, you gain a permanent +1 misc. bonus to that skill.  Studies cannot take place during a long rest where you are recovering hit points or spell slots. While at The Spire, studies take place in the library using their resources, which never depleet. When outside The Spire, you require books to study. Books last for 5 instances of studying for whatever subject it is in.
 
-All students have a class that they naturally excelled in during their fletchling days, and carries on into their time as a Sparrow. Starting as a Sparrow, you automatically have a +1 in one specialty subject and are proficient in it. From here one, you must gain a +3 misc. bonus to another specialty subject to gain proficiency in that subject as well.
+All students have a class that they naturally excelled in during their fletchling days, and carries on into their time as a Sparrow. Starting as a Sparrow, you automatically have a +1 in one specialty subject and are proficient in it. From here one, you must gain a +3 misc. bonus to another specialty subject to gain proficiency in that new subject as well.
 
 * Academic skills and specialty subjects:
   * Animal Handling
@@ -54,6 +54,7 @@ All students have a class that they naturally excelled in during their fletchlin
   * Politics
   * Mysteries of Arcana
   * Beings of Religion
+  
 * Physical skills and specialty subjects:
   * Acrobatics
   * Athletics
@@ -63,11 +64,24 @@ All students have a class that they naturally excelled in during their fletchlin
 
 ## Classmates
 
-By spending time with classmates, you can make them more willing to lend you a hand. Whenever you go on a mission that isn't delegated to you by your Hawks, you can ask classmates to come with you for assistance provided they are available. When you ask a classmate, you need to have at least spent some time with them outside of school for them to consider it. Hanging out once allows the option to roll a d20 and on a 20, they will assist you on your endeavor. Every 2 times you hang out with a person, you decrease the DC by 1. Standings with classmates is on a personal basis, but you can spend time together in groups. If they are not available your time is not wasted. 
+By spending time with classmates, you can make them more willing to lend you a hand. Whenever you go on a mission that isn't delegated to you by your Hawks, you can ask classmates to come with you for assistance provided they are available.
+
+When you ask a classmate, you need to have at least spent some time with them outside of school for them to consider it, and if you have, then you must succeed in hitting their Friendship DC with you. All classmates start at a Friendship DC that is unique to them. Normally, it takes 2 instances of spending time with them to decrease a classmates DC by 1. However, on the very first roll of these 2 rolls, you may attempt to roll with your Charisma modifier and hit their current Friendship DC with your roll to skip the 2nd instance.
+
+There is no penalty for not making the DC, you will just need another instance of spending time with them. You can only have a maximum of 2 classmates accompany your group on a mission. It takes time to ask a classmate to join you
 
 ## Artificer
 
 The artificer’s services are up for graduated students. Every new graduate is allowed a maximum of 2 items to be improved as a graduation gift. Any further improvements require points or gold. Each point is the equivalent of 100 gold when it comes to enchantments. Prices are normally rounded up for uneven amounts, but the Artificers have been known to allow a smidge of haggling.
+
+You can also volunteer your magical services and work for the Artificer. You must have any of these spells to be useful to him however.
+Druidcraft
+Guidance
+Produce Flame
+Message
+Mage Hand
+
+You can only work for the Artificer on Secondday and Eighthday. You will roll 2d4 and recieve 2 gold per the total you roll. This determines how busy he worked you and thought you earned.
 
 ## Quartermaster
 
@@ -81,7 +95,15 @@ You can also check out books from the Library, but they have a due date of 2 wee
 
 ## Harbor
 
-Students now have the option to store vessels in the harbor at the cost of 1 point per month. Each student may only store 1 vessel at a time, and said vessel must fit within the dock's parameters (25’ across maximum). Additionally you can fish at the docks if you have a rod, bait, and tackle. While fishing at the docks you will have 3 chances to roll a d6 and guess your result. If within 1 of your guess, you catch a small fish that sells for 2 gold. If you match your guess, you get a big catch that sells for 5 gold. If you are an Outlander, Pirate, Sailor, or Swashbuckler, you gold yield for small fish increases by 1d4 and 1d6 for big catches.
+Students now have the option to store vessels in the harbor at the cost of 1 point per month. Each student may only store 1 vessel at a time, and said vessel must fit within the dock's parameters (25’ across maximum).
+
+Additionally you can fish at the docks if you have a rod, bait, and tackle. While fishing at the docks you will have 3 chances to roll a d6 and guess your result. If within 1 of your guess, you catch a small fish that sells for 3 gold. If you match your guess, you get a big catch that sells for 5 gold. If you are an Outlander, Pirate, Sailor, or Swashbuckler, you gold yield for small fish increases by 1d4 and 1d6 for big catches. You can only fish once per day, and the dock is closed on Fifthday and Tenthday for dock upkeep and deliveries.
+
+## Shrine
+
+The Spire has a shrine building that offers respite for residents of all beliefs. The building offers many small shrines so that those of spiritual connections and beliefs may pay their respects. If you recieve benefits of power from a Diety, you can spend time at a shrine to gain another use of channel divinity for the day, or an extra 1d20 hit points for Lay on Hands. If you don't have either of these skills but still pay homage to a diety, you will recieve a +1 to a type of Saving Throws for the day as determined by a d6 roll.
+
+You choose to help upkeep the shrines with maintenance on Tenthday for a payout of 5 gold. If you are proficient in Religion, you gain 1d4 gold. If you can use Channel Divinity or Divine Sense, you gain 1d6 gold.
 
 ## Sparring Grounds
 
@@ -91,23 +113,25 @@ Spars are done through a series of quick attacks where each contestant will roll
 
 ## Regular Job
 
-Lots of the citizens of Bridgetown depend on students as an occasional workforce. You can take jobs from them for the day and earn gold as a reward. You may roll a d20, with a DC of 20 minus the number of skills your are proficient in, to try and find yourself a job. [Ex: if you are proficient in 4 skills, your DC is 16]. If you find a job you are proficient in, you will earn 2+1d6 gold. You can only work in bridgetown twice in a week. If you are unsuccessful in finding a job, your time for that portion of the day is wasted.
+Lots of the citizens of Bridgetown depend on students as an occasional workforce. You can take jobs from them for the day and earn gold as a reward. You may roll a d20, with a DC of 20 minus the number of skills your are proficient in, to try and find yourself a job. [Ex: if you are proficient in 4 skills, your DC is 16]. If you find a job you are proficient in, you will earn 3+1d6 gold. When you take a job, you agree to work 2 days in a row (you can choose afternoon or evening for both days). You can work 2 different jobs within 1 week. If you are unsuccessful in finding a job, your time for that portion of the day is wasted. Additionally, you will roll 1d20 to try and roll a 20 at the end of successfully working to see if you did such a good job that your employer gives you something extra for your hard work.
 
 ## Shopping
 
 While the Quartermaster has lots of items needed by adventurers, the local merchants and traders in Bridgetown may have some specialty, novelty, or more frivolous items you may find yourself wanted from time to time. You can also look for books in Bridgetown, but it may be tough to find what you need. You will need to roll a d6 and on a 4-5, you find a book while on a 6 you find 2. The type of book you find will be based on a few rolls. You will start with a d20 roll and depending on what you roll, you will have the option to take the roll or go for a specialty subject book if that is an option. If you choose the specialty subject book, you will roll a d10, d6, or d4 depending on what you rolled, though some instances are just one to one trade off of skill book to specialty subject books.
 
+On occassion, a festival or caravan of merchants will be in town. When this is the case, unique items may be available, but what is available changes depending on what time of day you go.
+
 ## Gambling
 
-There are certain areas of Bridgetown that you can go to if you know the right people to get in on some games of chance. Attending these gambling houses requires a successful Sneak check of DC 15 to not be noticed entering. If you are proficient in disguise kits, you have advantage on this Sneak check. Once inside you can choose to partake in cards or dice. All gambling is a double or nothing wager with a minimum of 5 gold and a maximum of 20. All wagers are declared before games begin
+There are certain areas of Bridgetown that you can go to if you know the right people to get in on some games of chance. Attending these gambling houses requires a successful Sneak check of DC 15 to not be noticed entering and bring attention to the establishment. Failing does not waste your time. If you are proficient in disguise kits, you have advantage on this Sneak check. Once inside you can choose to partake in cards or dice. All gambling is a double or nothing wager with a minimum of 5 gold and a maximum of 20. All wagers are declared before games begin. Gambling is held on Firstday, Seventhday, and Ninthday.
 
-In cards, you will be playing blackjack against the house and see who can get closest to 21 without going over. You will each roll 3 d10 and have 2 oppurtunities to reroll the current lowest number of your rolls. The player must choose their options of rerolls before the house rolls their initial dice. The house must stop once they hit 17 however. If you have proficiency in cards, you get 3 rerolls instead of 2.
+In cards, you will be playing blackjack against the house and see who can get closest to 21 without going over. You will each roll 3 d10 and have 2 oppurtunities to reroll the current lowest number of your rolls. The player must choose their options of rerolls before the house rolls their initial dice. The house must stop once they hit 17 however. If you have proficiency in cards, you get 3 rerolls instead of 2. You can play twice in a single visit.
 
-In dice, you will be playing a game of craps. You will be playing as the shooter. As shooter, you will roll 2d6 and on a 7, or 11, you win. On a 2, 3, or 12, you lose. If you get a different number besides the aforementioned numbers, that becomes your target number. You will then keep rolling the dice until you get the target number again, in which case you win, or if you roll a 7, in which case you lose. If you have proficiency in dice, then you can choose a second additional number as a target number when rolling for the latter case.
+In dice, you will be playing a game of craps. You will be playing as the shooter. As shooter, you will roll 2d6 and on a 7, or 11, you win. On a 2, 3, or 12, you lose. If you get a different number besides the aforementioned numbers, that becomes your target number. You will then keep rolling the dice until you get the target number again, in which case you win, or if you roll a 7, in which case you lose. If you have proficiency in dice, then you can choose a second additional number as a target number when rolling for the latter case. You can play twice in a single visit.
 
 ## Culinary Indulgence
 
-Exotic food at the market is always abound with how popular a stop Bridgetown is for the Broken Sea. By scouring the markets and partaking in unique dishes, you can give your body the edge in your next encounter (The temporary hit points do not become effective until your next encounter or when you next take damage). For 1d10 gold pieces, you can spend time in the market and then roll a d20 if you want to spend that much. 0-3 the Food you find is good, but not beneficial healthwise. On a 4-10, you gain 1d4+1 temp HP. On an 11-15, you gain 1d6+1 temporary hit points. And on a 16-20, you gain 1d8+1 temporary hit points. While you can visit the market multiple times, boosts do not stack and the most recent successful visit dictates your temporary hit points. 
+Exotic food at the market is always abound with how popular a stop Bridgetown is for the Broken Sea. By scouring the markets and partaking in unique dishes, you can give your body the edge in your next encounter (The temporary hit points do not become effective until your next encounter or when you next take damage). For 1d10 gold pieces, you can spend time in the market and then roll a d20 if you want to spend that much. 0-3 the Food you find is good, but not beneficial healthwise. On a 4-10, you gain 1d4+1 temp HP. On an 11-15, you gain 1d6+1 temporary hit points. And on a 16-20, you gain 1d8+1 temporary hit points. While you can visit the market multiple times, boosts do not stack and the most recent successful visit dictates your temporary hit points. If you are proficient in Cooks Utensil's, you can spot the true delicacies in the market and thus the minimum roll you can get is a 4.
 
 ## Laboratory
 
@@ -132,35 +156,44 @@ A typical potion will require 3-6 ingredients. Ingredients range from a rating o
 |  25-30    |   21    |       6      |
 |  31-45    |   23    |       7      |
 
+You can also work in the laboratory if you have Druidcraft or Speak With Animals. Working in the Laboratory lets you roll 1d2 and earn double what you roll. Laboratory jobs are available on Thirdday and Fourthday.
+
 ## Crafts and Talents
 
-Students who have other worldy experience have oppurtunities to make a commercial name for themselves in Bridgetown. If you are proficient in certain tool kits, you can use that expertise to create crafts or provide services to others with the hope of a profit. You do need to lease a booth on Marketstreet for 10+1d10 gold (Fluctuating availability of spaces). Once you've leased a booth you will roll a d20 and get at least a DC 9 to break even. Each tool kit has a different degree of difficulty associated with it that determines how hard it is to turn a profit. This takes into account start-up costs of materials and or work done. Rolling a DC 10 - (listed DC) will net you your money back on the booth and the profit amount listed, but rolling above the listed DC will do the same but double your profit +1d6+1. To work the booth you must dedicate 2 time slots to it, where the first is prep, and the second is the sale. Only one set of rolls is done though.
+Students who have other worldy experience have oppurtunities to make a commercial name for themselves in Bridgetown. If you are proficient in certain tool kits, you can use that expertise to create crafts or provide services to others with the hope of a profit. You do need to lease a booth on Marketstreet for 10+1d10 gold (Fluctuating availability of spaces). Each tool kit has a different degree of difficulty associated with it that determines how hard it is to turn a profit. This takes into account start-up costs of materials and or work done.
 
-* Alchemist's supplies: Crafting of runes (DC 18, +8 profit)
-* Brewer's supplies: Brewing of drinks (DC 17, +6 profit)
-* Calligrapher's supplies: Writing letters for people (DC 15, +5 profit)
-* Carpenter's tools: Simple toys (DC 16, +6 profit)
-* Cobbler's tools: Shoe shining and mending (DC 15, +5 profit)
-* Cook's utensils: Quick and simple meals (DC 16, +6 profit)
-* Glassblower's tools: (Wares must be premade at The Spire.) Decorations (DC 17, +7 profit)
-* Jeweler's tools: Adjustments to accessories (DC 16, +6 profit)
-* Leatherworker's tools: Fixing of lacing for armor and more (DC 15, +5 profit)
-* Mason's tools: Get hired to adjust a person's home (DC 17, +7 profit)
-* Painter's supplies: Sell artwork (DC 18, +8 profit)
-* Potter's tools: Sell pottery (DC 16, +6 profit)
-* Smith's tools: Sharpen tools and weapons (DC 16, +6 profit)
-* Tinker's tools: Fixing odds and ends of adventurer's (DC 15, +5 profit)
-* Weaver's tools: Selling baskets and hats (DC 15, +5 profit)
-* Woodcarver's tools: Selling toys, instruments, accessories, knick knacks (DC 16, +6 profit)
-* Disguise Kit: Selling costumes (DC 17, +7 profit)
-* Forgery kit: Crafting pre-made stationary (DC 15, +5 profit)
-* Gaming Set: Full competition games, no chance ones (DC 15, +5 profit)
-* Herbalism kit: Creating natural medicine (DC 18, +8 profit)
-* Musical Instrument: Fixing instruments and selling reeds and strings (DC 15, +5 profit)
-* Navigator's tools: Navigation assistance by sea or land (DC 16, +6 profit)
-* Poisoner's kit: Selling antidotes for common poisons and venoms (DC 16, +6 profit)
-* Thieves tools: Crafting locks and duplicating keys (DC 16, +6 profit)
+Using 1d20 + Proficency bonus you must roll a DC 9 to break even, or by rolling a (DC 10 - "Listed DC") you will earn your money back on the booth and the profit amount listed, but rolling above the listed DC will do the same but double your profit +3d4 on top of that. To work the booth you must dedicate 2 time slots to it, where the first is prep, and the second is the sale. Only one set of rolls is done though.
+
+* Alchemist's supplies: Crafting of runes (DC 17, +8 profit)
+* Brewer's supplies: Brewing of drinks (DC 16, +6 profit)
+* Calligrapher's supplies: Writing letters for people (DC 14, +5 profit)
+* Cartographer's Tools: Quickly done map sketches (DC 14, +5 Profit)
+* Carpenter's tools: Simple toys (DC 15, +6 profit)
+* Cobbler's tools: Shoe shining and mending (DC 14, +5 profit)
+* Cook's utensils: Quick and simple meals (DC 15, +6 profit)
+* Glassblower's tools: (Wares must be premade at The Spire.) Decorations (DC 16, +7 profit)
+* Jeweler's tools: Adjustments to accessories (DC 15, +6 profit)
+* Leatherworker's tools: Fixing of lacing for armor and more (DC 14, +5 profit)
+* Mason's tools: Get hired to adjust a person's home (DC 16, +7 profit)
+* Painter's supplies: Sell artwork (DC 17, +8 profit)
+* Potter's tools: Sell pottery (DC 15, +6 profit)
+* Smith's tools: Sharpen tools and weapons (DC 15, +6 profit)
+* Tinker's tools: Fixing odds and ends of adventurer's (DC 14, +5 profit)
+* Weaver's tools: Selling baskets and hats (DC 14, +5 profit)
+* Woodcarver's tools: Selling toys, instruments, accessories, knick knacks (DC 15, +6 profit)
+* Disguise Kit: Selling costumes (DC 16, +7 profit)
+* Forgery kit: Crafting pre-made stationary (DC 14, +5 profit)
+* Gaming Set: Full competition games, no chance ones (DC 14, +5 profit)
+* Herbalism kit: Creating natural medicine (DC 17, +8 profit)
+* Musical Instrument: Fixing instruments and selling reeds and strings (DC 14, +5 profit)
+* Navigator's tools: Navigation assistance by sea or land (DC 15, +6 profit)
+* Poisoner's kit: Selling antidotes for common poisons and venoms (DC 15, +6 profit)
+* Thieves tools: Crafting locks and duplicating keys (DC 15, +6 profit)
 
 ## Good Night's Sleep
 
 Sometimes the best thing to do is have a nice light meal, a warm drink, and head to sleep for the night a bit early. Doing so the day before an adventure will net you +1 on initiative rolls and +1 against Wisdom saving throws for the first encounter of your next adventure. This benefit can only be gained from sleeping in your dorm bed.
+
+## Stables
+
+Storing horses at the stables costs 10 gold a month with a 1 time purchase of their stall for 75 gold. If you ever sell your stall, you will recieve 25 gold back. Which includes that they will be fed as well. Storing things like carts costs 5 gold a month.
