@@ -5,7 +5,7 @@ permalink: /characters/
 ---
 ## Students
 
-### Atresa
+# Atresa
 
 ![Atresa](/assets/Atresa.jpg)  
 
@@ -13,7 +13,7 @@ permalink: /characters/
 A member of the Red Rings, or "CC" (Crimson Crew). Default Friendship DC 16
 
 
- # Favextra
+# Favextra
 
 ![Favextra](/assets/Favextra.jpg)
 
