@@ -10,7 +10,7 @@ permalink: /characters/
 ![Atresa](/assets/Atresa.jpg)  
 
 
-A member of the Red Rings, or "CC" (Crimson Crew). Default Friendship DC 19
+A member of the Red Rings, or "CC" (Crimson Crew). Default Friendship DC 16
 
 
  # Favextra
@@ -26,7 +26,7 @@ A member of the Red Rings, or "CC" (Crimson Crew). Default Friendship DC 20
 ![Cesilia](/assets/Cesilia.jpg)
 
 
-A member of the Red Rings, or "CC" (Crimson Crew). Default Friendship DC 19
+A member of the Red Rings, or "CC" (Crimson Crew). Default Friendship DC 18
 
 
 # Bristel
@@ -34,7 +34,7 @@ A member of the Red Rings, or "CC" (Crimson Crew). Default Friendship DC 19
 ![Bristel](/assets/Bristel.jpg)
 
 
-A member of the Red Rings, or "CC" (Crimson Crew). Default Friendship DC 20
+A member of the Red Rings, or "CC" (Crimson Crew). Default Friendship DC 21
 
 
 # Irandrog
@@ -49,7 +49,7 @@ A member of the Red Rings, or "CC" (Crimson Crew). Default Friendship DC 20
 ![Greylin](/assets/Greylin.jpg)
 
 
-A member of the Red Rings, or "CC" (Crimson Crew). Default Friendship DC 19
+A member of the Red Rings, or "CC" (Crimson Crew). Default Friendship DC 17
 
 # Yon
 
@@ -57,7 +57,7 @@ A member of the Red Rings, or "CC" (Crimson Crew). Default Friendship DC 19
 ![Yon](/assets/Yon.jpg)
 
 
-A member of the Blue Rings, or "Sky". Default Friendship DC 20
+A member of the Blue Rings, or "Sky". Default Friendship DC 18
 
 
 # Everawenza
@@ -65,7 +65,7 @@ A member of the Blue Rings, or "Sky". Default Friendship DC 20
 ![Everawenza](/assets/Everawenza.jpg)
 
 
-A member of the Red Rings, or "Sky". Default Friendship DC 20
+A member of the Red Rings, or "Sky". Default Friendship DC 19
 
 
 # Narahsan
@@ -74,7 +74,7 @@ A member of the Red Rings, or "Sky". Default Friendship DC 20
 ![Narahsan](/assets/Narahsan.jpg)
 
 
-A member of the Blue Rings, or "Sky". Default Friendship DC 20
+A member of the Blue Rings, or "Sky". Default Friendship DC 23
 
 
 # Soonoire
@@ -83,7 +83,7 @@ A member of the Blue Rings, or "Sky". Default Friendship DC 20
 ![Soonoire](/assets/Soonoire.jpg)
 
 
-A member of the Blue Rings, or "Sky". Default Friendship DC 19
+A member of the Blue Rings, or "Sky". Default Friendship DC 17
 
 
 # Varingale
@@ -92,7 +92,7 @@ A member of the Blue Rings, or "Sky". Default Friendship DC 19
 ![Varingale](/assets/Varingale.jpg)
 
 
-A member of the Blue Rings, or "Sky". Default Friendship DC 20
+A member of the Blue Rings, or "Sky". Default Friendship DC 19
 
 
 # Varlo
@@ -101,7 +101,7 @@ A member of the Blue Rings, or "Sky". Default Friendship DC 20
 ![Varlo](/assets/Varlo.jpg)
 
 
-A member of the Blue Rings, or "Sky". Default Friendship DC 20
+A member of the Blue Rings, or "Sky". Default Friendship DC 18
 
 
 # Negitti
@@ -110,7 +110,7 @@ A member of the Blue Rings, or "Sky". Default Friendship DC 20
 ![Negitti](/assets/Negitti.jpg)
 
 
-A member of the Yellow Rings, or "Warriors of Dawn". Default Friendship DC 20
+A member of the Yellow Rings, or "Warriors of Dawn". Default Friendship DC 19
 
 
 # Osperon
@@ -119,7 +119,7 @@ A member of the Yellow Rings, or "Warriors of Dawn". Default Friendship DC 20
 ![Osperon](/assets/Osperon.jpg)
 
 
-A member of the Yellow Rings, or "Warriors of Dawn". Default Friendship DC 20
+A member of the Yellow Rings, or "Warriors of Dawn". Default Friendship DC 19
 
 
 # Jess
@@ -128,7 +128,7 @@ A member of the Yellow Rings, or "Warriors of Dawn". Default Friendship DC 20
 ![Jess](/assets/Jess.jpg)
 
 
-A member of the Yellow Rings, or "Warriors of Dawn". Default Friendship DC 19
+A member of the Yellow Rings, or "Warriors of Dawn". Default Friendship DC 16
 
 
 # Korpa
@@ -146,7 +146,7 @@ A member of the Yellow Rings, or "Warriors of Dawn". Default Friendship DC 20
 ![Tak](/assets/Tak.jpg)
 
 
-A member of the Yellow Rings, or "Warriors of Dawn". Default Friendship DC 20
+A member of the Yellow Rings, or "Warriors of Dawn". Default Friendship DC 22
 
 
 # Iykana
@@ -173,7 +173,7 @@ A member of the Black Rings, or "Shades". Default Friendship DC 20
 ![Ofera](/assets/Ofera.jpg)
 
 
-A member of the Black Rings, or "Shades". Default Friendship DC 20
+A member of the Black Rings, or "Shades". Default Friendship DC 18
 
 
 # Jace
@@ -182,7 +182,7 @@ A member of the Black Rings, or "Shades". Default Friendship DC 20
 ![Jace](/assets/Jace.jpg)
 
 
-A member of the Black Rings, or "Shades". Default Friendship DC 20
+A member of the Black Rings, or "Shades". Default Friendship DC 19
 
 
 # Uthore
@@ -191,7 +191,7 @@ A member of the Black Rings, or "Shades". Default Friendship DC 20
 ![Uthore](/assets/Uthore.jpg)
 
 
-A member of the Black Rings, or "Shades". Default Friendship DC 20
+A member of the Black Rings, or "Shades". Default Friendship DC 18
 
 
 # Tweetsin
@@ -200,7 +200,7 @@ A member of the Black Rings, or "Shades". Default Friendship DC 20
 ![Tweetsin](/assets/Tweetsin.jpg)
 
 
-A member of the Black Rings, or "Shades". Default Friendship DC 20
+A member of the Black Rings, or "Shades". Default Friendship DC 21
 
 
 # Zrenda
@@ -209,4 +209,4 @@ A member of the Black Rings, or "Shades". Default Friendship DC 20
 ![Zrenda](/assets/Zrenda.jpg)
 
 
-A member of the Black Rings, or "Shades". Default Friendship DC 20
+A member of the Black Rings, or "Shades". Default Friendship DC 25
