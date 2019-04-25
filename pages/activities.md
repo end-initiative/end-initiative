@@ -76,15 +76,15 @@ The artificer’s services are up for graduated students. Every new graduate is 
 
 You can also volunteer your magical services and work for the Artificer. You must be proficient in Arcana or have any of these spells to be useful to him however.
 
-**Druidcraft
+** Druidcraft
 
-**Guidance
+** Guidance
 
-**Produce Flame
+** Produce Flame
 
-**Message
+** Message
 
-**Mage Hand
+** Mage Hand
 
 You can only work for the Artificer on Secondday and Eighthday. You will roll 2d4 and recieve 2 gold per the total you roll. This determines how busy he worked you and thought you earned.
 
