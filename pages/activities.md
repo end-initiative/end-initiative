@@ -106,7 +106,7 @@ Additionally you can fish at the docks if you have a rod, bait, and tackle. Whil
 
 ## Shrine
 
-The Spire has a shrine building that offers respite for residents of all beliefs. The building offers many small shrines so that those of spiritual connections and beliefs may pay their respects. If you recieve benefits of power from a Diety, you can spend time at a shrine to gain another use of channel divinity for the day, or an extra 1d20 hit points for Lay on Hands. If you don't have either of these skills but still pay homage to a diety, you will recieve a +1 to a type of Saving Throws for the day as determined by a d6 roll.
+The Spire has a shrine building that offers respite for residents of all beliefs. The building offers many small shrines so that those of spiritual connections and beliefs may pay their respects. If you recieve benefits of power from a Diety, you can spend time at a shrine to gain another use of channel divinity for the day, or an extra 1d20 hit points for Lay on Hands. If you don't have either of these skills but still pay homage to a diety, you will recieve a +1 to a type of Saving Throw once for the day as determined by a d6 roll.
 
 You choose to help upkeep the shrines with maintenance on Tenthday for a payout of 5 gold. If you are proficient in Religion, you gain 1d4 gold. If you can use Channel Divinity or Divine Sense, you gain 1d6 gold.
 
@@ -118,13 +118,32 @@ Spars are done through a series of quick attacks where each contestant will roll
 
 ## Regular Job
 
-Lots of the citizens of Bridgetown depend on students as an occasional workforce. You can take jobs from them for the day and earn gold as a reward. You may roll a d20, with a DC of 20 minus the number of skills your are proficient in, to try and find yourself a job. [Ex: if you are proficient in 4 skills, your DC is 16]. If you find a job you are proficient in, you will earn 3+1d6 gold. When you take a job, you agree to work 2 days in a row (you can choose afternoon or evening for both days). You can work 2 different jobs within 1 week. If you are unsuccessful in finding a job, your time for that portion of the day is wasted. Additionally, you will roll 1d20 to try and roll a 20 at the end of successfully working to see if you did such a good job that your employer gives you something extra for your hard work.
+Lots of the citizens of Bridgetown depend on students as an occasional workforce. You can take jobs from them for the day and earn gold as a reward. You may roll a d20, with a DC of 20 minus the number of skills your are proficient in, to try and find yourself a job. [Ex: if you are proficient in 4 skills, your DC is 16]. If you find a job you are proficient in, you will earn 1d6+3 gold. You can work 2 different jobs within 1 week. If you are unsuccessful in finding a job, your time for that portion of the day is wasted. Additionally, you will roll 1d20 to try and roll a natural 20 at the end of successfully working to see if you did such a good job that your employer gives you something extra for your hard work.
 
 ## Shopping
 
-While the Quartermaster has lots of items needed by adventurers, the local merchants and traders in Bridgetown may have some specialty, novelty, or more frivolous items you may find yourself wanted from time to time. You can also look for books in Bridgetown, but it may be tough to find what you need. You will need to roll a d6 and on a 4-5, you find a book while on a 6 you find 2. The type of book you find will be based on a few rolls. You will start with a d20 roll and depending on what you roll, you will have the option to take the roll or go for a specialty subject book if that is an option. If you choose the specialty subject book, you will roll a d10, d6, or d4 depending on what you rolled, though some instances are just one to one trade off of skill book to specialty subject books.
+While the Quartermaster has lots of items needed by adventurers, the local merchants and traders in Bridgetown may have some specialty, novelty, or more frivolous items you may find yourself wanting from time to time.
+
+You can also look for books in Bridgetown, but it may be tough to find what you need. You will need to roll a d6 and on a 4-5, you find a book while on a 6 you find 2. The type of book you find will be based on a few rolls. You will start with a d20 roll and depending on what you roll, you will have the option to take the roll or go for a specialty subject book if that is an option. If you choose the specialty subject book, you will roll a d10, d6, or d4 depending on what you rolled, though some instances are just one to one trade off of skill book to specialty subject books.
 
 On occassion, a festival or caravan of merchants will be in town. When this is the case, unique items may be available, but what is available changes depending on what time of day you go.
+
+## Gale Gill Inn
+
+You can enjoy yourself or perform at Bridgetown's Reknown Gale Gill Inn. If you spend time and money here on drinks and food, you can gain additional benefits to other activities.
+
+You can read a book while eating and drinking while you sit on the peaceful seaside pier. Doing this gives you a +1 to the next 1d4 skill checks you perform of the subject you read about. Doing this costs 2 gold. (This reading does not count as studying).
+
+You can also enjoy yourself with the fellow patrons of the Inn by singing songs and sharing stories. Doing this gives you a Misc. +1 to the next time you hang out with a classmate when attempting to either further decrease their Friendship DC or recruit them to join you on a mission. Doing this costs you 5 gold.
+
+Alternatively, you can be the entertainment for the customers by performing for the night on Fifthday and Tenthday. Based on your performance check, you can choose what you'd like as your reward from a list. (Naturally failing still nets a "Not Impressed" despite bonuses.)
+
+|  1-8 (Not Impressed)  |     9-18 (Pleasant Performance)     |   19-23 (Excellent Performance)  |        24+ (Moved to tears)        |
+|-----------------------|-------------------------------------|----------------------------------|------------------------------------|
+| -3 to next peformance | 6d20 Silver, +1 to next Performance.| 1d10 gold                        | 3d6 gold, 3d6 silver, 3d6 copper   |
+| -2d4+1 gold           | 1d6 gold                            | 1d4 gold, +1 tally for Classmate | 1d6 gold, +1 tally for 2 Classmates|
+| -6 gold               | +3 to next performance              | +7 to next performance           | +1 Charisma score for 3 days       |
+
 
 ## Gambling
 
@@ -140,17 +159,17 @@ Exotic food at the market is always abound with how popular a stop Bridgetown is
 
 ## Laboratory
 
-Students who are proficient in Biology or Herbology may use the laboratory to expend their ingredients in order to make potions or medicine. If you do not have the means or ingredients, services of the Lab may be purchased from the Laboratory as well. Supplies are often limited, so the Laboratory will sometimes send requests to The Spire in order to replenish their stock.
+Students who are proficient in Biology or Herbology may use the laboratory to expend their ingredients in order to make potions or medicine. If you do not have the means or ingredients, services of the Lab may be purchased from the Laboratory as well. Supplies are often limited, so the Laboratory will sometimes send requests to The Spire in order to replenish their stock. You can always try and buy ingredients to use for yourself. Rolling a D20 determines if they have enough in stock for you to buy, DC 10.
 
-A typical potion will require 3-6 ingredients. Ingredients range from a rating of Common to Legendary with various potencies per level of rarity. When brewing a potion, you need an ingrediant that specializes as an effect, one as a synthesizer, and one as an enhancer. When you go to brew a potion, you will roll a Biology or Herbology skill check with the DC determined by the used ingredients to successfully brew the potion. Adding the potency score of all ingredients gives you the DC to try and brew the potion. The DC is reduced by 1 for every +1 misc. bonus you have to the specialty subject. Adding more than the minimum ingredients to a brew will change the effects of the potion. Adding extra effect ingredients will increase the bonus of the effect. Adding extra synthesizers will decrease the DC for a successful brew. And adding extra enhancer ingredients will grant an extra use of that potion, though sometimes you will need to add more than 1 synthesizer and/or enhancer for them to be strong enough to grant an extra use. A potion takes so long to brew and a student can only have 1 concoction brewing on the side when it is not for class at a time. Do not worry if you are not present when the potion is finished brewing, as it will be taken care of by staff.
+A typical potion will require 3-6 ingredients. Ingredients range from a rating of Common to Legendary with various potencies per level of rarity. When brewing a potion, you need an ingrediant that specializes as an effect, one as a synthesizer, and one as an enhancer. When you go to brew a potion, you will roll a Biology or Herbology skill check with the DC determined by the used ingredients to successfully brew the potion. Adding the potency score of all ingredients gives you the DC to try and brew the potion. The DC is reduced by 1 for every +1 misc. bonus you have to the Herbology subject. Adding more than the minimum ingredients to a brew will change the effects of the potion. Adding extra effect ingredients will increase the bonus of the effect. Adding extra synthesizers will decrease the DC for a successful brew. And adding extra enhancer ingredients will grant an extra use of that potion, though sometimes you will need to add more than 1 synthesizer and/or enhancer for them to be strong enough to grant an extra use. A potion takes so long to brew and a student can only have 1 concoction brewing on the side when it is not for class at a time. Do not worry if you are not present when the potion is finished brewing, as it will be taken care of by staff.
 
 |  Rarity    | Potency | Effect/(#)Resist  |  (#)Synthesizer | (#)Enhancer |
 |------------|---------|-------------------|-----------------|-------------|
-|  Common    |    1    |    +1d4/ (1) 1    |    (1) DC -1    | (1) 1 use   |
-|  Uncommon  |    3    |    +1d6/ (2) 2    |    (2) DC -2    | (2) 2 uses  |
-|  Rare      |    5    |    +1d8/ (1) 2    |    (1) DC -2    | (1) 2 uses  |
-|  Very Rare |    7    |    +1d10/(2) 3    |    (2) DC -3    | (2) 3 uses  |
-|  Legendary |    9    |    +2d8/ (1) 3    |    (1) DC -3    | (1) 3 uses  |
+|  Common    |    1    |    +1d4/ (1) 1    |    (1) DC -1    | (1) 2 use   |
+|  Uncommon  |    3    |    +1d6/ (2) 2    |    (2) DC -2    | (2) 3 uses  |
+|  Rare      |    5    |    +1d8/ (1) 2    |    (1) DC -2    | (1) 3 uses  |
+|  Very Rare |    7    |    +1d10/(2) 3    |    (2) DC -3    | (2) 4 uses  |
+|  Legendary |    9    |    +2d8/ (1) 3    |    (1) DC -3    | (1) 4 uses  |
 
 |  Potency  |   DC    | Days to Brew |
 |-----------|---------|--------------|
@@ -161,7 +180,7 @@ A typical potion will require 3-6 ingredients. Ingredients range from a rating o
 |  25-30    |   21    |       6      |
 |  31-45    |   23    |       7      |
 
-You can also work in the laboratory if you have Druidcraft or Speak With Animals. Working in the Laboratory lets you roll 1d2 and earn double what you roll. Laboratory jobs are available on Thirdday and Fourthday.
+You can also work in the laboratory if you have Druidcraft or Speak With Animals. Working in the Laboratory lets you roll 1d6 and earn double what you roll. Laboratory jobs are available on Thirddday and Fourthday.
 
 ## Crafts and Talents
 
@@ -195,10 +214,12 @@ Using 1d20 + Proficency bonus you must roll a DC 9 to break even, or by rolling 
 * Poisoner's kit: Selling antidotes for common poisons and venoms (DC 15, +6 profit)
 * Thieves tools: Crafting locks and duplicating keys (DC 15, +6 profit)
 
+## Stables
+
+Storing horses at the stables costs 10 gold a month with a 1 time purchase of their stall for 75 gold. If you ever sell your stall, you will recieve 25 gold back. Which includes that they will be fed as well. Storing things like carts costs 5 gold a month.
+
 ## Good Night's Sleep
 
 Sometimes the best thing to do is have a nice light meal, a warm drink, and head to sleep for the night a bit early. Doing so the day before an adventure will net you +1 on initiative rolls and +1 against Wisdom saving throws for the first encounter of your next adventure. This benefit can only be gained from sleeping in your dorm bed.
 
-## Stables
 
-Storing horses at the stables costs 10 gold a month with a 1 time purchase of their stall for 75 gold. If you ever sell your stall, you will recieve 25 gold back. Which includes that they will be fed as well. Storing things like carts costs 5 gold a month.
