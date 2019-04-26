@@ -5,21 +5,21 @@ permalink: /activities/
 ---
 ## Specialty Subjects
 
-|     Specialty Subject      |                    Ability learned at Misc. bonus                    |
-|----------------------------|----------------------------------------------------------------------|
-| Linguistics               | At +3 Learn a new language                                           |
-| Astrology                 | At +3 Gain Darkvision when outside                                   |
-| Physics                   | At +3 Gain +5 jump distance                                          |
-| Anthropology (Select race)| At +3 Choose +1 Insight & Persuation against such races              |
-| Creatures (Select a type) | At +3 Gain +1 to Attack rolls against such creatures                 |
-| Geography                 | At +3 Gain 5' Speed in one terrain type                              |
-| Biology                   | At +3 Gain +2 to Medicine checks                                     |
-| Herbology                 | At +3 Gain +1 to all effects of potions                              |
-| Economics                 | At +3 Gain +1d4 gold when selling items                              |
-| Politics                  | At +3 Gain +1 to Persuasion against Nobles                           |
-| Mysteries of Arcana       | At +3 Gain Detect Magic or increase its range by 10' if you have it  |
-| Beings of Religion        | At +3 Detect Hallow or Sacred Ground without a spell                 |
-| Battle Tactics            | At +3 Gain a +1 to attempts at disarming foes                        |
+|     Specialty Subject     |                     Ability learned at Misc. bonus                            |
+|---------------------------|-------------------------------------------------------------------------------|
+| Linguistics               | At +3 Learn a new language                                                    |
+| Astrology                 | At +3 Gain Darkvision when outside                                            |
+| Physics                   | At +3 Gain +5 jump distance                                                   |
+| Anthropology (Select race)| At +3 Choose +1 Insight & Persuation against such races                       |
+| Creatures (Select a type) | At +3 Gain +1 to Attack rolls against such creatures                          |
+| Geography                 | At +3 Gain 5' Speed in one terrain type                                       |
+| Biology                   | At +3 Gain +2 to Medicine checks                                              |
+| Herbology                 | At +3 Gain +1 to all effects of potions                                       |
+| Economics                 | At +3 Gain +1d4 gold when selling items                                       |
+| Politics                  | At +3 Gain +1 to Persuasion against Nobles and law officials                  |
+| Mysteries of Arcana       | At +3 Gain Detect Magic (ritual) or increase its range by 10' if you have it  |
+| Beings of Religion        | At +3 Detect Hallow or Sacred Ground without a spell                          |
+| Battle Tactics            | At +3 Gain a +1 to attempts at disarming foes                                 |
 
 ## Studies
 
@@ -66,9 +66,11 @@ All students have a class that they naturally excelled in during their fletchlin
 
 By spending time with classmates, you can make them more willing to lend you a hand. Whenever you go on a mission that isn't delegated to you by your Hawks, you can ask classmates to come with you for assistance provided they are available.
 
-When you ask a classmate, you need to have at least spent some time with them outside of school for them to consider it, and if you have, then you must succeed in hitting their Friendship DC with you. All classmates start at a Friendship DC that is unique to them. Normally, it takes 2 instances of spending time with them to decrease a classmates DC by 1. However, on the very first roll of these 2 rolls, you may attempt to roll with your Charisma modifier and hit their current Friendship DC with your roll to skip the 2nd instance.
+When you ask a classmate, you need to have at least spent some time with them outside of school for them to consider it, and if you have, then you must succeed in hitting their Friendship DC with you. All classmates start at a Friendship DC that is unique to them. Normally, it takes 2 instances of spending time with them to decrease a classmates DC by 1. However, on the very first roll of these 2 rolls, you may attempt to roll with your Charisma modifier and hit their current Friendship DC to skip the 2nd instance.
 
-There is no penalty for not making the DC, you will just need another instance of spending time with them. You can only have a maximum of 2 classmates accompany your group on a mission. It takes time to ask a classmate to join you
+There is no penalty for not making the DC, you will just need another instance of spending time with them. You can only have a maximum of 2 classmates accompany your group on a mission. It takes time to ask a classmate to join you.
+
+Be aware, Classmates are only available on certain times of certain days. Learn their schedules to better plan your week.
 
 ## Artificer
 
@@ -136,13 +138,13 @@ You can read a book while eating and drinking while you sit on the peaceful seas
 
 You can also enjoy yourself with the fellow patrons of the Inn by singing songs and sharing stories. Doing this gives you a Misc. +1 to the next time you hang out with a classmate when attempting to either further decrease their Friendship DC or recruit them to join you on a mission. Doing this costs you 5 gold.
 
-Alternatively, you can be the entertainment for the customers by performing for the night on Fifthday and Tenthday. Based on your performance check, you can choose what you'd like as your reward from a list. (Naturally failing still nets a "Not Impressed" despite bonuses.)
+Alternatively, you can be the entertainment for the customers by performing for the night on Fifthday and Tenthday. Based on your performance check, you can choose what you'd like as your reward from a list. If the bonus you choose is to increase the tally for a classmate, do be aware that you cannot decrease their Friendship DC by this method, you will still need to hang out with them as described in the Classmates section for that. (Naturally failing still nets a "Not Impressed" despite bonuses.)
 
 |  1-8 (Not Impressed)  |     9-18 (Pleasant Performance)     |   19-23 (Excellent Performance)  |        24+ (Moved to tears)        |
 |-----------------------|-------------------------------------|----------------------------------|------------------------------------|
-| -3 to next peformance | 6d20 Silver, +1 to next Performance.| 1d10 gold                        | 3d6 gold, 3d6 silver, 3d6 copper   |
-| -2d4+1 gold           | 1d6 gold                            | 1d4 gold, +1 tally for Classmate | 1d6 gold, +1 tally for 2 Classmates|
-| -6 gold               | +3 to next performance              | +7 to next performance           | +1 Charisma score for 3 days       |
+| -3 to next peformance | 3d12 Silver, +1 to next Performance.| 1d6 gold, +1d6 silver            | 2d6 gold, 2d6 silver, 2d6 copper   |
+| -3d4+1 gold           | 1d4 gold                            | 1d4 gold, +1 tally for Classmate | 1d6 gold, +1 tally for 2 Classmates|
+| -9 gold               | +3 to next performance              | +7 to next performance           | +1 Charisma score for 3 days       |
 
 
 ## Gambling
