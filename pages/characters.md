@@ -10,8 +10,7 @@ permalink: /characters/
 ![Atresa](/assets/Atresa.jpg)  
 
 
-A member of the Red Rings, or "CC" (Crimson Crew). Default Friendship DC 16
-
+A member of the Red Rings, or "CC" (Crimson Crew). Default Friendship DC 18
 
 # Favextra
 
@@ -26,7 +25,7 @@ A member of the Red Rings, or "CC" (Crimson Crew). Default Friendship DC 20
 ![Cesilia](/assets/Cesilia.jpg)
 
 
-A member of the Red Rings, or "CC" (Crimson Crew). Default Friendship DC 18
+A member of the Red Rings, or "CC" (Crimson Crew). Default Friendship DC 17
 
 
 # Bristel
