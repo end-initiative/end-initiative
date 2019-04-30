@@ -209,3 +209,13 @@ A member of the Black Rings, or "Shades". Default Friendship DC 21
 
 
 A member of the Black Rings, or "Shades". Default Friendship DC 25
+
+
+## Teachers
+
+# Caberin
+
+![Caberin](/assets/Caberin.jpg)  
+
+
+A Hawk of The Spire. Supervises the Yellow Rings
