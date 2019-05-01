@@ -124,7 +124,7 @@ Requirements for all services:  Outlander, Pirate, Sailor, Swashbuckler
 
 Students now have the option to store vessels in the harbor at the cost of 1 point per month. Each student may only store 1 vessel at a time, and said vessel must fit within the dock's parameters (25’ across maximum).
 
-Additionally you can fish at the docks if you have a rod, bait, and tackle. While fishing at the docks you will have 3 chances to roll a d6 and guess your result. If within 1 of your guess, you catch a small fish that sells for 3 gold. If you match your guess, you get a big catch that sells for 5 gold. If you are an Outlander, Pirate, Sailor, or Swashbuckler, you gold yield for small fish increases by 1d4 and 1d6 for big catches. You can only fish once per day, and the dock is closed on Fifthday and Tenthday for dock upkeep and deliveries.
+Additionally you can fish at the docks if you have a rod, bait, and tackle. While fishing at the docks you will have 3 chances to roll a d6 and guess your result. If within 1 of your guess, you catch a small fish that sells for 2 gold. If you match your guess, you get a big catch that sells for 4 gold. If you are an Outlander, Pirate, Sailor, or Swashbuckler, you gold yield for small fish increases by 1d4 and 1d6 for big catches. You can only fish once per day, and the dock is closed on Fifthday and Tenthday for dock upkeep and deliveries.
 
 
 ## Shrine
@@ -183,12 +183,12 @@ You can read a book while eating and drinking while you sit on the peaceful seas
 
 You can also enjoy yourself with the fellow patrons of the Inn by singing songs and sharing stories. Doing this gives you a Misc. +1d4 to the next time you hang out with a classmate when attempting to either further decrease their Friendship DC or recruit them to join you on a mission. Only Classmates available at night are available for this but this 1d4 counts towards all of them for up to 1 week, and then is lost. Doing this costs you 5 gold.
 
-Alternatively, you can be the entertainment for the customers by performing for the night on Fifthday and Tenthday if you are proficient in Performance. Based on your performance check, you can choose what you'd like as your reward from a list. If the bonus you choose is to increase the tally for a classmate, do be aware that you cannot decrease their Friendship DC by this method, you will still need to hang out with them as described in the Classmates section for that. (Naturally failing still nets a "Not Impressed" despite bonuses.)
+Alternatively, you can be the entertainment for the customers by performing for the night on Fifthday and Tenthday if you are proficient in Performance. Based on your performance check, you can choose what you'd like as your reward from a list. You can also invite a classmate to come see your performance. If the bonus you choose is to increase the tally for a classmate, do be aware that you cannot decrease their Friendship DC by this method, you will still need to hang out with them as described in the Classmates section for that. (Naturally failing still nets a "Not Impressed" despite bonuses.)
 
 |  1-8 (Not Impressed)  |     9-18 (Pleasant Performance)     |   19-23 (Excellent Performance)  |        24+ (Moved to tears)        |
 |-----------------------|-------------------------------------|----------------------------------|------------------------------------|
 | -3 to next peformance | 3d12 Silver, +1 to next Performance.| 1d6 gold, +1d6 silver            | 2d6 gold, 2d6 silver, 2d6 copper   |
-| -3d4+1 gold           | 1d4 gold                            | 1d4 gold, +1 tally for Classmate | 1d6 gold, +1 tally for 2 Classmates|
+| -3d4+1 gold           | 1d4 gold                            | 1d4 gold, +1 tally for Classmate | 1d8 gold, +1 tally for Classmates|
 | -9 gold               | +3 to next performance              | +7 to next performance           | +1 Charisma score for 3 days       |
 
 
@@ -222,7 +222,7 @@ Requirements for all services:  Herbology and Nature Proficiency, Druidcraft, Sp
 
 Students who are proficient in Biology or Herbology may use the laboratory to expend their ingredients in order to make potions or medicine. If you do not have the means or ingredients, services of the Lab may be purchased from the Laboratory as well. Supplies are often limited, so the Laboratory will sometimes send requests to The Spire in order to replenish their stock. You can always try and buy ingredients to use for yourself. Rolling a D20 determines if they have enough in stock for you to buy, DC 10.
 
-A typical potion will require 3-6 ingredients. Ingredients range from a rating of Common to Legendary with various potencies per level of rarity. When brewing a potion, you need an ingrediant that specializes as an effect, one as a synthesizer, and one as an enhancer. When you go to brew a potion, you will roll a Biology or Herbology skill check with the DC determined by the used ingredients to successfully brew the potion. Adding the potency score of all ingredients gives you the DC to try and brew the potion. The DC is reduced by 1 for every +1 misc. bonus you have to the Herbology subject. Adding more than the minimum ingredients to a brew will change the effects of the potion. Adding extra effect ingredients will increase the bonus of the effect. Adding extra synthesizers will decrease the DC for a successful brew. And adding extra enhancer ingredients will grant an extra use of that potion, though sometimes you will need to add more than 1 synthesizer and/or enhancer for them to be strong enough to grant an extra use. A potion takes so long to brew and a student can only have 1 concoction brewing on the side when it is not for class at a time. Do not worry if you are not present when the potion is finished brewing, as it will be taken care of by staff.
+A typical potion will require 3-6 ingredients. Ingredients range from a rating of Common to Legendary with various potencies per level of rarity. When brewing a potion, you need an ingrediant that specializes as an effect, one as a synthesizer, and one as an enhancer. When you go to brew a potion, you will roll a Biology or Herbology skill check with the DC determined by the used ingredients to successfully brew the potion. Adding the potency score of all ingredients gives you the DC to try and brew the potion. The DC is reduced by 1 for every +1 misc. bonus you have to the Herbology subject. Adding more than the minimum ingredients to a brew will change the effects of the potion. Adding extra effect ingredients will increase the bonus of the effect. Adding extra synthesizers will decrease the DC for a successful brew. And adding extra enhancer ingredients will grant an extra use of that potion, th-9ough sometimes you will need to add more than 1 synthesizer and/or enhancer for them to be strong enough to grant an extra use. A potion takes so long to brew and a student can only have 1 concoction brewing on the side when it is not for class at a time. Do not worry if you are not present when the potion is finished brewing, as it will be taken care of by staff.
 
 |  Rarity    | Potency | Effect/(#)Resist  |  (#)Synthesizer | (#)Enhancer |
 |------------|---------|-------------------|-----------------|-------------|
@@ -254,31 +254,31 @@ Students who have other worldy experience have oppurtunities to make a commercia
 
 Using 1d20 + Proficency bonus you must roll a DC 9 to break even, or by rolling a (DC 10 - "Listed DC") you will earn your money back on the booth and the profit amount listed, but rolling above the listed DC will do the same but double your profit +3d4 on top of that. To work the booth you must dedicate 2 time slots to it, where the first is prep, and the second is the sale. Only one set of rolls is done though.
 
-* Alchemist's supplies: Crafting of runes (DC 17, +8 profit)
-* Brewer's supplies: Brewing of drinks (DC 16, +6 profit)
-* Calligrapher's supplies: Writing letters for people (DC 14, +5 profit)
-* Cartographer's Tools: Quickly done map sketches (DC 14, +5 Profit)
-* Carpenter's tools: Simple toys (DC 15, +6 profit)
-* Cobbler's tools: Shoe shining and mending (DC 14, +5 profit)
-* Cook's utensils: Quick and simple meals (DC 15, +6 profit)
-* Glassblower's tools: (Wares must be premade at The Spire.) Decorations (DC 16, +7 profit)
-* Jeweler's tools: Adjustments to accessories (DC 15, +6 profit)
-* Leatherworker's tools: Fixing of lacing for armor and more (DC 14, +5 profit)
-* Mason's tools: Get hired to adjust a person's home (DC 16, +7 profit)
-* Painter's supplies: Sell artwork (DC 17, +8 profit)
-* Potter's tools: Sell pottery (DC 15, +6 profit)
-* Smith's tools: Sharpen tools and weapons (DC 15, +6 profit)
-* Tinker's tools: Fixing odds and ends of adventurer's (DC 14, +5 profit)
-* Weaver's tools: Selling baskets and hats (DC 14, +5 profit)
-* Woodcarver's tools: Selling toys, instruments, accessories, knick knacks (DC 15, +6 profit)
-* Disguise Kit: Selling costumes (DC 16, +7 profit)
-* Forgery kit: Crafting pre-made stationary (DC 14, +5 profit)
-* Gaming Set: Full competition games, no chance ones (DC 14, +5 profit)
-* Herbalism kit: Creating natural medicine (DC 17, +8 profit)
-* Musical Instrument: Fixing instruments and selling reeds and strings (DC 14, +5 profit)
-* Navigator's tools: Navigation assistance by sea or land (DC 15, +6 profit)
-* Poisoner's kit: Selling antidotes for common poisons and venoms (DC 15, +6 profit)
-* Thieves tools: Crafting locks and duplicating keys (DC 15, +6 profit)
+* Alchemist's supplies: Crafting of runes (DC 16, +8 profit)
+* Brewer's supplies: Brewing of drinks (DC 15, +6 profit)
+* Calligrapher's supplies: Writing letters for people (DC 13, +5 profit)
+* Cartographer's Tools: Quickly done map sketches (DC 13, +5 Profit)
+* Carpenter's tools: Simple toys (DC 14, +6 profit)
+* Cobbler's tools: Shoe shining and mending (DC 13, +5 profit)
+* Cook's utensils: Quick and simple meals (DC 14, +6 profit)
+* Glassblower's tools: (Wares must be premade at The Spire.) Decorations (DC 15, +7 profit)
+* Jeweler's tools: Adjustments to accessories (DC 14, +6 profit)
+* Leatherworker's tools: Fixing of lacing for armor and more (DC 13, +5 profit)
+* Mason's tools: Get hired to adjust a person's home (DC 15, +7 profit)
+* Painter's supplies: Sell artwork (DC 16, +8 profit)
+* Potter's tools: Sell pottery (DC 14, +6 profit)
+* Smith's tools: Sharpen tools and weapons (DC 14, +6 profit)
+* Tinker's tools: Fixing odds and ends of adventurer's (DC 13, +5 profit)
+* Weaver's tools: Selling baskets and hats (DC 13, +5 profit)
+* Woodcarver's tools: Selling toys, instruments, accessories, knick knacks (DC 14, +6 profit)
+* Disguise Kit: Selling costumes (DC 15, +7 profit)
+* Forgery kit: Crafting pre-made stationary (DC 13, +5 profit)
+* Gaming Set: Full competition games, no chance ones (DC 13, +5 profit)
+* Herbalism kit: Creating natural medicine (DC 16, +8 profit)
+* Musical Instrument: Fixing instruments and selling reeds and strings (DC 13, +5 profit)
+* Navigator's tools: Navigation assistance by sea or land (DC 14, +6 profit)
+* Poisoner's kit: Selling antidotes for common poisons and venoms (DC 14, +6 profit)
+* Thieves tools: Crafting locks and duplicating keys (DC 14, +6 profit)
 
 
 ## Stables
@@ -287,7 +287,7 @@ Availability:                   Always
 Profitable Days:                Always
 Requirements for all services:  None
 
-Storing horses at the stables costs 10 gold a month with a 1 time purchase of their stall for 75 gold. If you ever sell your stall, you will recieve 25 gold back. Which includes that they will be fed as well. Storing things like carts costs 5 gold a month. ou can also work here during the morning for 1d4 gold.
+Storing horses at the stables costs 10 gold a month with a 1 time purchase of their stall for 75 gold. If you ever sell your stall, you will recieve 25 gold back. Which includes that they will be fed as well. Storing things like carts costs 5 gold a month.
 
 
 ## Good Night's Sleep
