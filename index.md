@@ -51,14 +51,14 @@ Of course there are normal laws of not killing or stealing, but those are more l
 |---------------------------|-------------------------------------------------------------------------------|
 | Linguistics               | At +3 Learn a new language                                                    |
 | Astrology                 | At +3 Gain Darkvision when outside                                            |
-| Physics                   | At +3 Gain +5 jump distance                                                   |
-| Anthropology (Select race)| At +3 Choose +1 Insight & Persuation against such races                       |
+| Physics                   | At +3 Gain +5' jump distance                                                  |
+| Anthropology (Select race)| At +3 Choose +1 Insight & Persuasion against such races                       |
 | Creatures (Select a type) | At +3 Gain +1 to Attack rolls against such creatures                          |
-| Geography                 | At +3 Gain 5' Speed in one terrain type                                       |
+| Geography                 | At +3 Gain +5' Speed in one terrain type                                      |
 | Biology                   | At +3 Gain +2 to Medicine checks                                              |
 | Herbology                 | At +3 Gain +1 to all effects of potions                                       |
 | Economics                 | At +3 Gain +1d4 gold when selling items                                       |
-| Politics                  | At +3 Gain +1 to Persuasion against Nobles and law officials                  |
+| Politics                  | At +3 Gain +1 to Persuasion against Nobles and law officials, not milataristic|
 | Mysteries of Arcana       | At +3 Gain Detect Magic (ritual) or increase its range by 10' if you have it  |
 | Beings of Religion        | At +3 Detect Hallow or Sacred Ground without a spell                          |
 | Battle Tactics            | At +3 Gain a +1 to attempts at disarming foes                                 |
