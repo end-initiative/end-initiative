@@ -221,9 +221,9 @@ A member of the Black Rings, or "Shades". Default Friendship DC 25
 A Hawk of The Spire. Supervises the Red Rings. He teaches the classes on Survival and Animal Handling. He specializes in the longbow
 
 
-## Valerala
+## Velerala
 
-![Valerala](/assets/Valerala.jpg)  
+![Velerala](/assets/Velerala.jpg)  
 
 
 A Hawk of The Spire. Supervises the Red Rings. She teaches the classes on Politics and Sleight of Hand. She specializes in roguish tactics
