@@ -45,6 +45,24 @@ Of course there are normal laws of not killing or stealing, but those are more l
 
 * Tuition must be paid at the top of the month, or services be made up in its stead. (300gp)
 
+## Specialty Subjects
+
+|     Specialty Subject     |                     Ability learned at Misc. bonus                            |
+|---------------------------|-------------------------------------------------------------------------------|
+| Linguistics               | At +3 Learn a new language                                                    |
+| Astrology                 | At +3 Gain Darkvision when outside                                            |
+| Physics                   | At +3 Gain +5 jump distance                                                   |
+| Anthropology (Select race)| At +3 Choose +1 Insight & Persuation against such races                       |
+| Creatures (Select a type) | At +3 Gain +1 to Attack rolls against such creatures                          |
+| Geography                 | At +3 Gain 5' Speed in one terrain type                                       |
+| Biology                   | At +3 Gain +2 to Medicine checks                                              |
+| Herbology                 | At +3 Gain +1 to all effects of potions                                       |
+| Economics                 | At +3 Gain +1d4 gold when selling items                                       |
+| Politics                  | At +3 Gain +1 to Persuasion against Nobles and law officials                  |
+| Mysteries of Arcana       | At +3 Gain Detect Magic (ritual) or increase its range by 10' if you have it  |
+| Beings of Religion        | At +3 Detect Hallow or Sacred Ground without a spell                          |
+| Battle Tactics            | At +3 Gain a +1 to attempts at disarming foes                                 |
+
 ## Tests:
 
 At the end of a month, (30 days), students have a test held at The Spire to measure the performance of each of your skills. You will attempt a roll with each skill, and your collective results determine your grades. However, you must also get at least passing with more than half of your skills (10 of them). If you are proficient in a specialty subject, you gain an additional roll per specialty subject that will replace your lowest roll(s).
