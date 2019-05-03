@@ -191,13 +191,13 @@ You can read a book while eating and drinking while you sit on the peaceful seas
 
 You can also enjoy yourself with the fellow patrons of the Inn by singing songs and sharing stories. Doing this gives you a Misc. +1d4 to the next time you hang out with a classmate when attempting to either further decrease their Friendship DC or recruit them to join you on a mission. Only Classmates available at night are available for this but this 1d4 counts towards all of them for up to 1 week, and then is lost. Doing this costs you 5 gold.
 
-Alternatively, you can be the entertainment for the customers by performing for the night on Fifthday and Tenthday if you are proficient in Performance. Based on your performance check, you can choose what you'd like as your reward from a list. You can also invite a classmate to come see your performance. If the bonus you choose is to increase the tally for a classmate, do be aware that you cannot decrease their Friendship DC by this method, you will still need to hang out with them as described in the Classmates section for that. (Naturally failing still nets a "Not Impressed" despite bonuses.)
+Alternatively, you can be the entertainment for the customers by performing for the night on Fifthday and Tenthday if you are proficient in Performance. Based on your performance check, you can choose what you'd like as your reward from a list. You can also invite a classmate to come see your performance. If the bonus you choose is to increase the tally for a classmate, do be aware that you cannot decrease their Friendship DC by this method, you will still need to hang out with them as described in the Classmates section for that last push. (Naturally failing still nets you a "Not Impressed" despite bonuses.)
 
 |  1-8 (Not Impressed)  |     9-18 (Pleasant Performance)     |   19-23 (Excellent Performance)  |        24+ (Moved to tears)        |
 |-----------------------|-------------------------------------|----------------------------------|------------------------------------|
-| -3 to next peformance | 3d12 Silver, +1 to next Performance.| 1d6 gold, +1d6 silver            | 2d6 gold, 2d6 silver, 2d6 copper   |
-| -3d4+1 gold           | 1d4 gold                            | 1d4 gold, +1 tally for Classmate | 1d8 gold, +1 tally for Classmates|
-| -9 gold               | +3 to next performance              | +7 to next performance           | +1 Charisma score for 3 days       |
+| -3 to next peformance | 3d12 Silver, +1 to next Performance.| 1d6 gold, +2d6 silver            | 2d6 gold, 3d6 silver, 4d6 copper   |
+| -3d4+1 gold           | 1d4 gold                            | +1 tally for Classmate           | 1d8 gold, +1 tally for Classmate   |
+| -9 gold               | +3 to next performance              | +6 to next performance           | +1 Charisma score for 3 days       |
 
 
 ## Gambling
