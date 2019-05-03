@@ -12,12 +12,16 @@ Profitable Days:                None
 Requirements for all services:  None
 
 
-When your character dedicates time to studies, they may choose a subject on the skills in your character sheet or of a specialty subject by the classes offered from the school. One academic and one physical skill can be trained or studied at a time. Each segment of time you study earns a point towards that skill or subject. You can only study one physical and one academic subject per day. At 5 points, you can attempt a d20 roll, and on a 18-20, you gain a permanent +1 misc. bonus to that skill.  Studies cannot take place during a long rest where you are recovering hit points or spell slots. While at The Spire, studies take place in the library using their resources, which never deplete. When outside The Spire, you require books to study. Books last for 5 instances of studying for whatever subject it is in.
+When your character dedicates time to studies, they may choose a subject on the skills in your character sheet or of a specialty subject by the classes offered from the school. One academic and one physical skill can be trained or studied at a time.
 
-All students have a class that they naturally excelled in during their fletchling days, and carries on into their time as a Sparrow. Starting as a Sparrow, you automatically have a +1 in one specialty subject and are proficient in it. From here one, you must gain a +3 misc. bonus to another specialty subject to gain proficiency in that new subject as well.
+Each segment of time you study earns a tally towards that skill or subject. You can only study one physical and one academic subject per day. At 5 points, you can attempt a d20 roll, and on a 18-20, you gain a permanent +1 misc. bonus to that skill.
+
+Studies cannot take place during a long rest where you are recovering hit points or spell slots. While at The Spire, studies take place in the library using their resources, which never deplete. When outside The Spire, you require books to study. Books last for 5 instances of studying for whatever subject it is in.
+
+All students have a class that they naturally excelled in during their fletchling days, and carries on into their time as a Sparrow. Starting as a Sparrow, you automatically have a +1 in one specialty subject and are proficient in it. From there on, you must gain a +3 misc. bonus in another specialty subject through studying to gain proficiency in that subject as well.
 
 * Academic skills and specialty subjects:
-  * Animal Handling
+  * Animal Handling           
   * Arcana
   * Deception
   * History
@@ -92,9 +96,11 @@ Profitable Days:                Always
 Requirements for all services:  Proficiency in tools
 
 
-Students who have other worldly experience have opportunities to make a commercial name for themselves in Bridgetown. If you are proficient in certain tool kits, you can use that expertise to create crafts or provide services to others with the hope of a profit. You do need to lease a booth on Market Street for 10+1d10 gold (Fluctuating availability of spaces). Each tool kit has a different degree of difficulty associated with it that determines how hard it is to turn a profit. This takes into account start-up costs of materials and or work done.
+Students who have other worldly experience have opportunities to make a commercial name for themselves in Bridgetown. If you are proficient in certain tool kits, you can use that expertise to create crafts or provide services to others with the hope of a profit.
 
-Using 1d20 + Proficiency bonus you must roll a DC 9 to break even, or by rolling a (DC 10 - "Listed DC") you will earn your money back on the booth and the profit amount listed, but rolling above the listed DC will do the same but double your profit +3d4 on top of that. To work the booth you must dedicate 2 time slots to it, where the first is prep, and the second is the sale. Only one set of rolls is done though.
+You need to lease a booth on Market Street for 10+1d10 gold (Fluctuating availability of spaces). Each tool kit has a different degree of difficulty associated with it that determines how hard it is to turn a profit. This takes into account start-up costs of materials and or work done.
+
+Using 1d20 + Proficiency bonus you must roll a DC 9 to break even, or by rolling a  between DC 10 & the specified DC you will earn your money back on the booth and the profit amount listed, but rolling above the listed DC will do the same but double your profit +3d4 on top of that. To work the booth you must dedicate 2 time slots to it, where the first is prep, and the second is the sale. Only one set of rolls is done though.
 
 * Alchemist's supplies: Crafting of runes (DC 16, +8 profit)
 * Brewer's supplies: Brewing of drinks (DC 15, +6 profit)
@@ -132,7 +138,11 @@ Profitable Days:                3rd, 4th
 Requirements for all services:  None
 
 
-Exotic food at the market is always abound with how popular a stop Bridgetown is for the Broken Sea. By scouring the markets and partaking in unique dishes, you can give your body the edge in your next encounter (The temporary hit points do not become effective until your next encounter or when you next take damage). For 1d10 gold pieces, you can spend time in the market and then roll a d20 if you want to spend that much. 0-3 the Food you find is good, but not beneficial healthwise. On a 4-10, you gain 1d4+1 temp HP. On an 11-15, you gain 1d6+1 temporary hit points. And on a 16-20, you gain 1d8+1 temporary hit points. While you can visit the market multiple times, boosts do not stack and the most recent successful visit dictates your temporary hit points. If you are proficient in Cooks Utensils, you can spot the true delicacies in the market and thus the minimum roll you can get is a 4.
+Exotic food at the market is always abound with how popular a stop Bridgetown is for the Broken Sea. By scouring the markets and partaking in unique dishes, you can give your body the edge in your next encounter.
+
+For 1d10 gold pieces, you can spend time in the market and then roll a d20 if you want to spend that much. 0-3 the Food you find is good, but not beneficial healthwise. On a 4-10, you gain 1d4+1 temp HP. On an 11-15, you gain 1d6+1 temporary hit points. And on a 16-20, you gain 1d8+1 temporary hit points (The temporary hit points do not become effective until your next encounter or when you next take damage).
+
+While you can visit the market multiple times, boosts do not stack and the most recent successful visit dictates your temporary hit points. If you are proficient in Cooks Utensils, you can spot the true delicacies in the market and thus the minimum roll you can get is a 4.
 
 
 ## Gale Gill Inn
@@ -148,7 +158,7 @@ You can enjoy yourself or perform at Bridgetown's renown Gale Gill Inn. If you s
 
 You can read a book while eating and drinking while you sit on the peaceful seaside pier. Doing this gives you a +1 to the next 1d4 skill checks you perform of the subject you read about. Doing this costs 2 gold. (This reading does not count as studying).
 
-You can also enjoy yourself with the fellow patrons of the Inn by singing songs and sharing stories. Doing this gives you a Misc. +1d4 to the next time you hang out with a classmate when attempting to either further decrease their Friendship DC or recruit them to join you on a mission. Only Classmates available at night are available for this but this 1d4 counts towards all of them for up to 1 week, and then is lost. Doing this costs you 5 gold.
+You can also enjoy yourself with the fellow patrons of the Inn by singing songs and sharing stories. Doing this gives you a Misc. +1d4 to the next time you hang out with a classmate when attempting to either further decrease their Friendship DC or recruit them to join you on a mission. Only Classmates available at night are available for this but this 1d4 counts towards all of them for up to 1 week, and then is lost. Doing this costs you 7 gold.
 
 Alternatively, you can be the entertainment for the customers by performing for the night on Fifthday and Tenthday if you are proficient in Performance. Based on your performance check, you can choose what you'd like as your reward from a list. You can also invite a classmate to come see your performance. If the bonus you choose is to increase the tally for a classmate, do be aware that you cannot decrease their Friendship DC by this method, you will still need to hang out with them as described in the Classmates section for that last push. (Naturally failing still nets you a "Not Impressed" despite bonuses.)
 
@@ -168,7 +178,9 @@ Profitable Days:                1st, 7th, 9th
 Requirements for all services:  None
 
 
-There are certain areas of Bridgetown that you can go to if you know the right people to get in on some games of chance. Attending these gambling houses requires a successful Sneak check of DC 15 to not be noticed entering and bring attention to the establishment. Failing does not waste your time. If you are proficient in disguise kits, you have advantage on this Sneak check. Once inside you can choose to partake in cards or dice. All gambling is a double or nothing wager with a minimum of 5 gold and a maximum of 20. All wagers are declared before games begin. Gambling is held on Firstday, Seventhday, and Ninthday.
+There are certain areas of Bridgetown that you can go to if you know the right people to get in on some games of chance. Attending these gambling houses requires a successful Sneak check of DC 15 to not be noticed entering and bring attention to the establishment. Failing does not waste your time. If you are proficient in disguise kits, you have advantage on this Sneak check.
+
+Once inside you can choose to partake in cards or dice. All gambling is a double or nothing wager with a minimum of 5 gold and a maximum of 20. All wagers are declared before games begin. Gambling is held on Firstday, Seventhday, and Ninthday.
 
 In cards, you will be playing blackjack against the house and see who can get closest to 21 without going over. You will each roll 3d10 and have 2 opportunities to reroll the current lowest number of your rolls. The player must choose their options of rerolls before the house rolls their initial dice. The house must stop once they hit 17 however. If you have proficiency in cards, you get 3 rerolls instead of 2. You can play twice in a single visit.
 
@@ -189,7 +201,7 @@ Sometimes the best thing to do is have a nice light meal, a warm drink, and head
 
 ## Harbor
 
-Availability:                   Always
+Availability:                   1st, 2nd, 3rd, 4th, 6th, 7th, 8th, 9th
 
 Profitable Days:                1st, 2nd, 3rd, 4th, 6th, 7th, 8th, 9th
 
@@ -203,7 +215,7 @@ Additionally you can fish at the docks if you have a rod, bait, and tackle. Whil
 
 ## Laboratory
 
-Availability:                   Always
+Availability:                   3rd, 4th, 8th, 9th, 10th
 
 Profitable Days:                3rd, 4th
 
@@ -242,7 +254,9 @@ Profitable Days:                None
 
 Requirements for all services:  Cloistered Scholar, Loremaster, Bard of Lore
 
-The Library provides an excellent place to study and explore for information of the land. The Spire also has exclusive texts, requiring a fee in exchange for a chance to acquire some of their knowledge. For 1 point, a student may, with supervision, read and choose 1 exclusive text in the field of a skill. 1 point lasts for a month worth of access. An exclusive text takes 3 days to finish, or 2 if you have proficiency in the subject of linguistics. When you finish reading a text, your next Studies roll you perform to attempt for a Misc. bonus will have an increased range of 14-20 instead of the normal 18-20 until you succeed at a roll. You are only allowed to read 1 exclusive text fully per week.
+The Library provides an excellent place to study and explore for information of the land. The Spire also has exclusive texts, requiring a fee in exchange for a chance to acquire some of their knowledge.
+
+For 1 point, a student may, with supervision, read and choose 1 exclusive text in the field of a skill. 1 point lasts for a month worth of access. An exclusive text takes 3 days to finish, or 2 if you have proficiency in the subject of linguistics. When you finish reading a text, your next Studies roll you perform to attempt for a Misc. bonus will have an increased range of 14-20 instead of the normal 18-20 until you succeed at a roll. You are only allowed to read 1 exclusive text fully per week.
 
 If you are a Cloistered Scholar, Loremaster, or Bard of Lore you can pay 25 gold instead of a point.
 
@@ -272,6 +286,14 @@ Requirements for all services:  None
 
 Lots of the citizens of Bridgetown depend on students as an occasional workforce. You can take jobs from them for the day and earn gold as a reward. You may roll a d20, with a DC of 20 minus the number of skills your are proficient in, to try and find yourself a job. [Ex: if you are proficient in 4 skills, your DC is 16]. If you find a job you are proficient in, you will earn 1d6+3 gold. You can work 2 different jobs within 1 week. If you are unsuccessful in finding a job, your time for that portion of the day is wasted. Additionally, you will roll 1d20 to try and roll a natural 20 at the end of successfully working to see if you did such a good job that your employer gives you something extra for your hard work.
 
+|  1d4  |             DC               |
+|-------|------------------------------|
+|   1   | Free book from the bookstore |
+|   2   | Free culinary meal           |
+|   3   | 1d6 gold                     |
+|   4   | roll for a Trinket           |
+
+
 
 ## Shopping
 
@@ -298,9 +320,9 @@ Profitable Days:                10th
 Requirements for all services:  Religion proficiency
 
 
-The Spire has a shrine building that offers respite for residents of all beliefs. The building offers many small shrines so that those of spiritual connections and beliefs may pay their respects. If you recieve benefits of power from a Deity, you can spend time at a shrine to gain another use of channel divinity for the day, or an extra 1d20 hit points for Lay on Hands. If you don't have either of these skills but still pay homage to a deity, you will receive a +1 to a type of Saving Throw once for the day as determined by a d6 roll.
+The Spire has a shrine building that offers respite for residents of all beliefs. The building offers many small shrines so that those of spiritual connections and beliefs may pay their respects. If you recieve benefits of power from a Deity, you can spend time at a shrine to gain another use of channel divinity for the day, or an extra 1d20 hit points for Lay on Hands. If you don't have either of these skills but still pay homage to a deity, you will receive a +1 to a type of Saving Throw for one roll for the week as determined by a d6 roll. Continual praying does not stack effects.
 
-You choose to help upkeep the shrines with maintenance on Tenthday for a payout of 5 gold. If you are proficient in Religion, you gain 1d4 gold. If you can use Channel Divinity or Divine Sense, you gain 1d6 gold.
+You choose to help upkeep the shrines with maintenance on Tenthday for a payout of 5 gold. If you are proficient in Religion, you gain 1d4 more gold. If you can use Channel Divinity or Divine Sense, you gain 1d6 more gold.
 
 
 ## Sparring Grounds
@@ -314,7 +336,11 @@ Requirements for all services:  None
 
 The Sparring Grounds is where one goes to train their more physical skills. Additionally, you can coordinate to have team spars with other classmates at this location. Wagers of points or gold can be made if you can convince your opponents to place a bet, provided you have such currency to wager. Points can only be exchanged between students with authority of an eagle to complete the transaction. Spars are only allowed once a week so all students stay healthy and fit for when their Hawks may assign them tasks.
 
-Spars are done through a series of quick attacks where each contestant will roll attacks 3x. These spars are done with Spire provided equipment, weaponry and implements with the exception of spellbooks. Spars can only occur between two combatants that are using the same style of fighting, being melee or magical. Once the style is decided, contestants are permitted to use whatever is in their repertoire of that style for the attacks. Range and positioning are irrelevant in these instances and thus abilities requiring or granting bonuses for such conditions do not activate. Any attacks that would result in a condition being applied such as blindness or invisibility can still be utilized, however the effects of charmed, paralyzed, petrified, and stunned will always only last for 1 of the 3 attacks.
+Spars are done through a series of quick attacks where each contestant will roll attacks 3x. These spars are done with Spire provided equipment, weaponry and implements with the exception of spellbooks. Spars can only occur between two combatants that are using the same style of fighting, being melee or magical. Once the style is decided, contestants are permitted to use whatever is in their repertoire of that style for the attacks.
+
+Range and positioning are irrelevant in these instances and thus abilities requiring or granting bonuses for such conditions do not activate. Any attacks that would result in a condition being applied such as blindness or invisibility can still be utilized, however the effects of charmed, paralyzed, petrified, and stunned will always only last for 1 of the 3 attacks.
+
+Whoever deals the most damage within those three attacks is the chosen winner. If none hit, it is a tie and nothing is lost
 
 
 ## Stables
@@ -327,6 +353,3 @@ Requirements for all services:  None
 
 
 Storing horses at the stables costs 15 gold a month with a 1 time purchase of their stall for 75 gold. If you ever sell your stall, you will receive 25 gold back. Which includes that they will be fed as well. Storing things like carts costs 10 gold a month. You can work the stables anyday for 1d10 silver
-
-
-
