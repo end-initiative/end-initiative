@@ -6,15 +6,15 @@ permalink: /artificer/
 ## Using the Artificer
 
   Enchantments are  magical effects that are studied and researched to such an extent that they are able to be placed onto any or most  items, weapons, or armor. Not many people are able to perform the artificing needed for such effects, and thus their creation are valuable.
-  At The Spire, the artificer is a service performed by the school itself that students are able to access but must pay to do so. Adding magical power to an item with no effects is required at a minimum before effects can be placed on an item. As yout ry and weave more effects on top of another, the difficulty of creating the item increases and thus so does the price. The artificer accepts a mixture of Spire points and gold for enchantments. Each Magical Effect cost stacks onto the final item, but Enchantments as listed below have their own additional cost atop the Artificers service charge cost.
+  At The Spire, the artificer is a service performed by the school itself that students are able to access but must pay to do so. Adding magical power to an item with no effects is required at a minimum before effects can be placed on an item. As you try and weave more effects on top of another, the difficulty of creating the item increases and thus so does the price. Ultimately, students are not permitted to own weapons or armor with more than 2 enchantments on them. The artificer accepts a mixture of Spire points and gold for enchantments. Each Magical Effect cost stacks onto the final item, but Enchantments as listed below have their own additional cost atop the Artificers service charge cost.
   
-  |  Magical Effect  |       Cost      |
-  |------------------|-----------------|
-  |        +1        |  1 Point        |
-  |        +2        |  2 Points       |
-  |        +3        |  4 Points       |
-  |   Enchantment    |  1 Point/100 gp |
-  | 2nd Enchantment  |  2 Point/200 gp |
+  |  Magical Effect  |        Cost        |
+  |------------------|--------------------|
+  |        +1        |  1 Point +50 gold  |
+  |        +2        |  2 Points +50 gold |
+  |        +3        |  4 Points +50 gold |
+  |   Enchantment    |  1 Point +Enchant  |
+  | 2nd Enchantment  |  2 Point +Enchant  |
 
 
 
@@ -50,7 +50,7 @@ permalink: /artificer/
       Activating any amount of charges is a free action.
       
       
-  ## Flood
+## Flood
   
   Type: Weapon Enchantment
   
