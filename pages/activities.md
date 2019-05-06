@@ -3,6 +3,23 @@ title: Activities
 layout: default
 permalink: /activities/
 ---
+- Academics
+- Artificer
+- Classmates
+- Crafts & Talents
+- Culinary Indulgence
+- Gale Gill Inn
+- Gambling
+- Good Night's Sleep
+- Harbor
+- Laboratoy
+- Library Quartermaster
+- Regular Job
+- Shopping
+- Shrine
+- Sparring Ground
+- Stables
+
 ## Academics
 
 Availability:                   Always
