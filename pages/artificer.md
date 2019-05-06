@@ -20,201 +20,254 @@ permalink: /artificer/
 
 # Enchantments
 
-  ## Banished
+## Banished
   
-  Type: Weapon Enchantment
+Type: Weapon Enchantment
   
-  Applicable: Any Weapon
+Applicable: Any Weapon
   
-  Cost: 200gp
+Cost: 200gp
   
-  Description:
-    This weapon is tied to a pocket dimension hidden on another plane and can be recalled as a Bonus Action to appear in your hand, or sent away as a free action while it dissipates into shadows and disappears from your hands.
-    When freshly reclaimed, the next attack with this weapon has +1 to attack and Damage rolls.
-    To reclaim a banished weapon, a small portal of shadows, no larger than 2 feet in diameter opens inches away from your open palmed hand for you to reach in and claim it. The portal only allows for the bounded object to be placed inside of it. (Can’t have a hollow hammer enchanted with this to store things inside it.) A Banished weapon cannot be sent away and summoned within the same round.
+Description:
+
+This weapon is tied to a pocket dimension hidden on another plane and can be recalled as a Bonus Action to appear in your hand, or sent away as a free action while it dissipates into shadows and disappears from your hands.
+
+When freshly reclaimed, the next attack with this weapon has +1 to attack and Damage rolls.
+
+To reclaim a banished weapon, a small portal of shadows, no larger than 2 feet in diameter opens inches away from your open palmed hand for you to reach in and claim it. The portal only allows for the bounded object to be placed inside of it. (Can’t have a hollow hammer enchanted with this to store things inside it.) A Banished weapon cannot be sent away and summoned within the same round.
     
     
-  ## Chill
+## Chill
   
-  Type: Weapon Enchantment
+Type: Weapon Enchantment
   
-  Applicable: Any Weapon
+Applicable: Any Weapon
   
-  Cost: 200gp
+Cost: 200gp
   
-  Description:
-      This weapon is imbued with the power to chill itself to temperatures so low they could almost cause frostbite.
-      The weapon stores 4 charges of this ability at a time, and requires 1 hour to recover 1 charge.
-      When a charge is activated, the next successful attack performed with this weapon does an extra 1d8 cold damage, and an extra +2 cold damage for each time they are struck with this ability within 5 minutes. If an enemy is hit by 3 charges, they must succeed on a Constitution saving throw (DC 10 + 1/2 Character Level) or become frozen (immobilized) until the start of its next turn.
-      Alternatively, 3 charges can be expelled to create magical glaciers occupying a 15' cube cast in front of the caster that lasts for 2 turns, ending on the casters turn. Those who start their turn in the glaciers take 1d8 cold damage, and are in difficult terrain. Entering the glaciers for the first time also causes 1d8 cold damage. Getting hit by the glacier adds one stack of Chill per time they take damage from the glacier. The glaciers magically evaporate away at the end of their time.
+Description:
+This weapon is imbued with the power to chill itself to temperatures so low they could almost cause frostbite.
+
+The weapon stores 4 charges of this ability at a time, and requires 1 hour to recover 1 charge. When a charge is activated, the next successful attack performed with this weapon does an extra 1d8 cold damage, and an extra +2 cold damage for each time they are struck with this ability within 5 minutes. If an enemy is hit by 3 charges, they must succeed on a Constitution saving throw (DC 10 + 1/2 Character Level) or become frozen (immobilized) until the start of its next turn.
+
+Alternatively, 3 charges can be expelled to create magical glaciers occupying a 15' cube cast in front of the caster that lasts for 2 turns, ending on the casters turn. Those who start their turn in the glaciers take 1d8 cold damage, and are in difficult terrain. Entering the glaciers for the first time also causes 1d8 cold damage. Getting hit by the glacier adds one stack of Chill per time they take damage from the glacier. The glaciers magically evaporate away at the end of their time.
       Activating any amount of charges is a free action.
       
       
 ## Flood
   
-  Type: Weapon Enchantment
+Type: Weapon Enchantment
   
-  Applicable: Any Weapon
+Applicable: Any Weapon
   
-  Cost: 500gp
+Cost: 500gp
   
-  Description:
-      Within this weapon is a raging core of water constantly in motion and sending a torrent of water along the edges of it whenever it is unsheathed.
-      Two times per encounter as part of the Attack Action, you can loose the water inside the weapon to create an extension of water to whip at a creature. When using this effect, your weapon can reach an extra 5 feet but deals your Weapon Damage dice + Proficiency Bonus bludgeoning damage. As a constantly moving torrent, the water retreats back into the weapon at the end of your turn.
-      As a bonus action, you can boil or chill the water to alter the damage caused by the water whip to become fire or cold damage for one hour. This cannot be changed again until after a chosen damage type has been in effect for the hour.
-      Once per day, as a standard action you can blast a creature within 5 feet with a flood of water. They must succeed on a DC 12+Proficiency bonus Strength Saving throw or take 2d6 force damage and be pushed 1d4 squares away from the caster. On a save, the creature takes half damage and is not pushed away.
+Description:
+
+Within this weapon is a raging core of water constantly in motion and sending a torrent of water along the edges of it whenever it is unsheathed.
+
+Two times per encounter as part of the Attack Action, you can loose the water inside the weapon to create an extension of water to whip at a creature. When using this effect, your weapon can reach an extra 5 feet but deals your Weapon Damage dice + Proficiency Bonus bludgeoning damage. As a constantly moving torrent, the water retreats back into the weapon at the end of your turn.
+
+As a bonus action, you can boil or chill the water to alter the damage caused by the water whip to become fire or cold damage for one hour. This cannot be changed again until after a chosen damage type has been in effect for the hour.
+
+Once per day, as a standard action you can blast a creature within 5 feet with a flood of water. They must succeed on a DC 12+Proficiency bonus Strength Saving throw or take 2d6 force damage and be pushed 1d4 squares away from the caster. On a save, the creature takes half damage and is not pushed away.
       
       
-  ## Forceful
+## Forceful
   
-  Type: Weapon Enchantment
+Type: Weapon Enchantment
   
-  Applicable: Any Weapon
+Applicable: Any Weapon
   
-  Cost: 300gp
+Cost: 300gp
   
-  Description:
-      Backed by the fury of your blows, the forces of the arcane joins the swing with this weapon when you choose.
-      When you activate a charge, the next attack done with this weapon adds 1d4 Force damage to its end result. Every consecutive blow done with this weapon adds +1 force damage while activated. At 3 consecutive hits, the target is knocked prone if it can be by the 3rd hit.
-      This weapon holds 7 charges and all charges are restored on a long rest. Alternatively, 3 charges can be expelled as a standard action to launch 1 force bolt as if using the Magic Missile spell at 1d10 force damage
-      Activating any amount of charges is a free action.
+Description:
+
+Backed by the fury of your blows, the forces of the arcane joins the swing with this weapon when you choose.
+
+When you activate a charge, the next attack done with this weapon adds 1d4 Force damage to its end result. Every consecutive blow done with this weapon adds +1 force damage while activated. At 3 consecutive hits, the target is knocked prone if it can be by the 3rd hit. This weapon holds 7 charges and all charges are restored on a long rest. Alternatively, 3 charges can be expelled as a standard action to launch 1 force bolt as if using the Magic Missile spell at 1d10 force damage Activating any amount of charges is a free action.
       
-  ## Impulsing
+## Impulsing
   
-  Type: Weapon Enchantment
+Type: Weapon Enchantment
   
-  Applicable: Any Ranged Weapon
+Applicable: Any Ranged Weapon
   
-  Cost: 400gp
+Cost: 400gp
   
-  Description:
-      Ammunition expelled from this weapon can become charmed with arcane energy when channeled. When you expel a charge, the next shot you land with this weapon will have 1 of 3 effects of your choice:
-      1. All creatures within 5 feet of the target must succeed on a DC 10+Proficiency bonus Strength Saving Throw or be pushed 5 feet away from the target
-      2. All creatures within 5 feet of the target including the target must succeed on a DC 8+Proficiency bonus Dexterity Saving throw or be pulled towards the floor by a force effect, making them prone
-      3.The targeted creature has a singularity placed on it, creating a pulling effect on itself that travels with them, harming it for 2 force damage for 1d6 turns. While the pulling effect lingers on the target, ranged attacks against the creature gain a +1 to attack rolls per singularity placed on it.
-      The weapon stores 5 charges of this ability at a time, and requires 1 hour to recover 1 charge.
-      Alternatively, all 5 charges can be expelled to create a giant singularity at a point within range for 1d6 turns. The singularity istelf does not occupy the space it is in. All creatures within 10 feet of the singularity must succeed on a DC 12+Proficiency bonus Strength saving throw or have their speed reduced to 0 and be pulled to within 5 feet of the singularity if there is room to. An affected creature can make another Strength Saving Throw at the end of their turns to resist the singularity. All creatures that end their turn within 5' of the singularity take 1d4 force damage.
+Description:
+
+Ammunition expelled from this weapon can become charmed with arcane energy when channeled. When you expel a charge, the next shot you land with this weapon will have 1 of 3 effects of your choice:
+
+1. All creatures within 5 feet of the target must succeed on a DC 10+Proficiency bonus Strength Saving Throw or be pushed 5 feet away from the target
+
+2. All creatures within 5 feet of the target including the target must succeed on a DC 8+Proficiency bonus Dexterity Saving throw or be pulled towards the floor by a force effect, making them prone
+
+3.The targeted creature has a singularity placed on it, creating a pulling effect on itself that travels with them, harming it for 2 force damage for 1d6 turns. While the pulling effect lingers on the target, ranged attacks against the creature gain a +1 to attack rolls per singularity placed on it.
+
+The weapon stores 5 charges of this ability at a time, and requires 1 hour to recover 1 charge. Alternatively, all 5 charges can be expelled to create a giant singularity at a point within range for 1d6 turns. The singularity istelf does not occupy the space it is in. All creatures within 10 feet of the singularity must succeed on a DC 12+Proficiency bonus Strength saving throw or have their speed reduced to 0 and be pulled to within 5 feet of the singularity if there is room to. An affected creature can make another Strength Saving Throw at the end of their turns to resist the singularity. All creatures that end their turn within 5' of the singularity take 1d4 force damage.
       
       
-  ## Intuitive
+## Intuitive
   
-  Type: Weapon Enchantment
+Type: Weapon Enchantment
   
-  Applicable: Any Weapon, Any Implement
+Applicable: Any Weapon, Any Implement
   
-  Cost: 150gp
+Cost: 150gp
   
-  Description:
-      This weapon is attuned to be sensitive to life energy and all the intricacies of how they work together. While wielding this weapon, you gain a +2 to Insight checks, but your visions are also increased by 20 feet. And once per day you gain 5 feet of blindsense for 12 seconds.
+Description:
+
+This weapon is attuned to be sensitive to life energy and all the intricacies of how they work together. While wielding this weapon, you gain a +2 to Insight checks, but your visions are also increased by 20 feet. And once per day you gain 5 feet of blindsense for 12 seconds.
       
-  ## Loyalty
+## Loyalty
   
-  Type: Weapon Enchantment
+Type: Weapon Enchantment
   
-  Applicable: Any Weapon, Any Implement
+Applicable: Any Weapon, Any Implement
   
-  Cost: 200gp
+Cost: 200gp
   
-  Description:
-      Any weapon or implement enchanted with Loyalty can be recalled to your hand by saying “Return” if it is within 10’ of you as a bonus action.
-      The weapon or implement will take the path of least resistance to return to its owner but cannot move if more than 5 lbs is holding it in place.
-      During its return, if it collides with a creature, it will only inflict 1 damage if it is slashing or bludgeoning weapon.
-      If it is a piercing weapon and collides with a creature on its return, roll an attack roll against that creature without your proficiency or attack modifiers, on a hit it inflicts a weapon die of damage and is stuck in the creature at their location.
-      Implements simply move past creatures. any creature can use their Reaction to try and grab the returning Implement at a Dexterity Check of DC 10+Proficiency Bonus.
-      Though you cannot recall a held or restrained weapon or implement, it will try to move towards you with the little strength it offers. The weapon can exert as much force as how much it weighs.
+Description:
+
+Any weapon or implement enchanted with Loyalty can be recalled to your hand by saying “Return” if it is within 10’ of you as a bonus action. The weapon or implement will take the path of least resistance to return to its owner but cannot move if more than 5 lbs is holding it in place. During its return, if it collides with a creature, it will only inflict 1 damage if it is slashing or bludgeoning weapon.
+
+If it is a piercing weapon and collides with a creature on its return, roll an attack roll against that creature without your proficiency or attack modifiers, on a hit it inflicts a weapon die of damage and is stuck in the creature at their location. Implements simply move past creatures. any creature can use their Reaction to try and grab the returning Implement at a Dexterity Check of DC 10+Proficiency Bonus.
+
+Though you cannot recall a held or restrained weapon or implement, it will try to move towards you with the little strength it offers. The weapon can exert as much force as how much it weighs.
       
-  ## Lucky
+## Lucky
   
-  Type: Weapon Enchantment
+Type: Weapon Enchantment
   
-  Applicable: Any Weapon
+Applicable: Any Weapon
   
-  Cost: 500gp
+Cost: 500gp
   
-  Description:
-      A magical weapon imbued with the blessings of Tymora. When you succeed on an attack roll against an enemy creature with this weapon, it gains a charge. Charges last for 1 hour and then reset to 0. At 4 charges, the next attack with the weapon has its critical hit range increased to 6-20. Additionally you do 4d4 extra magical damage for that attack. Charges are reset to 0 after this attack whether or not it succeeded.
-  - name: lunar
-    type: weapon
-    applicable:
-      - Any Martial Weapon
-    cost: 999
-    description: |
-      This weapon gleams with the light of the moon until it is night.
-      While outside at night , this weapon is invisible unless detected by magical means. However, whoever last caused damage with this weapon knows where it is, within 30'.
-      While using this weapon during a Surprise Round, your attack rolls with it gain a +3.
-      While in night conditions, any creature damaged by this weapon will take 2 Radiant damage at the beginning of their turn for 1d8 turns. This effect cannot stack more than once on a creature within 1 hour.
-      Once per day as a standard action, you can expel moonlight from this weapon to a creature within 10' that can see you. That creature must succeed on a Constitution Saving Throw of DC 11 + Proficiency Bonus or be blinded until the end of your next turn. This ability does not require it to be night or for you to be outside to use it.
-  - name: molten
-    type: weapon
-    applicable:
-      - Any Metal Weapon
-    cost: 700
-    description: |
-      This metal of this weapon is always flowing as if it is channeling the heart of a volcano within its blade. The heat from it harms any creature sharing the same space as the wielder for 1d6 fire damage at the start of their turn.
-      When this weapon successfully strikes foes that are wearing metal armor or are primarily made of metal in some form or another, 1d4 worth of their AC is reduced until the end of the round.
-      Because this weapons blade is always shifting, it is slightly weaker and imposes a -2 to attack rolls but adds 1d8 fire damage to every attack.
-      This weapon acts as a torch for the purposes of light and being able to burn items that are not worn or carried.
-  - name: polaris
-    type: weapon
-    applicable:
-      - Any Weapon
-    cost: 575
-    description: |
-      The weapon is mundane until the enchantment is activated. You can as a free action cause the weapon to become astral. While astral the weapon instead damages their soul. The damage isn’t applied immediately, you can use a bonus action to speak the command word "Polaris" to cause all current unmanifested damage that you have inflicted to souls to manifest itself onto their physical bodies. Each creature instantly takes their respective amount of damage as force damage which bypasses temporary hit points.
-      The unmanifasted damage only lasts 10 minutes.
-  - name: quadruplex
-    type: weapon
-    applicable:
-      - any melee weapon
-      - any focus
-    cost: 999
-    description: |
-      Through the confusion of battle comes an opportunity to work smarter, not harder.
-      When you make a successful melee attack, you can expend one charge of this enchantment to create 3 illusionary duplicates of yourself that interact with your target in either an offensive or defensive manner.
-      * **Offensive:** The illusionary duplicates each make an attack roll against your target. This attack roll utilizes your character's ability modifier and proficiency bonuses. These attacks deal your proficiency bonus +1 worth of magical weapon damage.
-      * **Defensive:** The illusionary duplicates distract your target, causing them to have a -2 on attack rolls against you. If you succeed on an attack of opportunity against the target creature while you have illusionary duplicates active, the target creature must succeed on a Wisdom saving throw of 11 + your proficiency bonus. The target creature's speed is reduced to 0 until the start of their next turn on a failed save. On a successful save, one of the illusionary duplicates disappears. All of your illusionary duplicates dissipate if you are the target of a successful attack by the target creature.
-      The enchanted weapon stores 4 charges of this ability, and requires 2 hours to recover a charge.
-  - name: scorching
-    type: weapon
-    applicable:
-      - Any Weapon
-    cost: 575
-    description: |
-      This weapon is imbued with the power to ignite itself with a magical fire that does no harm to the wielder nor itself.
-      When ignited, the next successful attack performed with this weapon does an extra 1d8 fire damage and if the target fails a DC 9+Proficiency Bonus Dexterity save, catch fire (1d8 at the start of their turn and can attempt the save at the end of their turns).
-      The weapon stores 5 charges of this ability at a time, and requires 1 hour to recover 1 charge.
-      Alternatively, 3 charges can be expelled to throw a concentrated fire bolt for 2d10 fire damage up to 15’.
-      Activating any amount of charges is a free action.
-  - name: shadow*
-    type: weapon
-    applicable:
-      - Any Weapon
-    cost: 575
-    description: |
-      This weapon emanates a black smoke while unsheathed at day, but appears normal at night.
-      You can halt a shadow once per day as a bonus action with this weapon by stabbing it with this weapon so long as they are not touching another shadow. Once stabbed, the shadow's owner must succeed on a Wisdom saving throw versus your spell save DC or be restrained. Your weapon does not need to stay stabbed into the shadow for this to maintain, but it must have pierced through the shadow into the material behind it initially. If another creature's shadow meets the restrained one, that creature must also succeed on a Wisdom saving throw or be restrained as well. Only 2 creatures shadows can be restrained at a time. Affected creatures may make another Wisdom Saving throw at the end of their turns. Being attuned to this weapon makes you immune to this effect.
-      While in low-light conditions, this weapon deals an extra 2 magical damage, and while in complete darkness, it deals an extra 1D4+1 magical damage.
-      Once per long rest while you are in complete darkness, you can teleport up to 10 feet to another space of complete darkness as a bonus action.
-  - name: shifting
-    type: weapon
-    applicable:
-      - Any Weapon
-    cost: 200
-    description: |
-      This enchantment allows a weapons primary material to shift to the properties of another.
-      As a bonus action, you can change the primary material of your weapon to Steel, Iron, Silver, Stone, Wood, or Copper until your next long rest. The material density will change so that the weight will remain the same no matter which is chosen.
-      You must complete a short rest before you can change the material again.
-  - name: shock
-    type: weapon
-    applicable:
-      - Any Weapon
-    cost: 650
-    description: |
-      This weapon is imbued with the power of lightning and grants you swift movement and action.
-      When activated, you are granted +1 to attack rolls until the end of your turn, and add 1d4 lightning damage to attacks with the enchanted weapon. You are also granted the ability to use your bonus action to make an extra attack with the enchanted weapon.
-      The weapon stores 5 charges of this ability at a time, and requires a short rest to recover 1 charge.
-      Alternatively, 3 charges can be expelled to cast a small chain lightning spell that hits 2d4 targets for 2d4+1 lightning damage. Targets must be within 5 feet of each other to be chained and the lightning cannot double back. Add 2d4 damage if they are wearing armor made of metal or are primarily made of metal.
-      Activating any amount of charges is a free action.
+Description: A magical weapon imbued with the blessings of Tymora. When you succeed on an attack roll against an enemy creature with this weapon, it gains a charge. Charges last for 1 hour and then reset to 0. At 4 charges, the next attack with the weapon has its critical hit range increased to 6-20. Additionally you do 4d4 extra magical damage for that attack. Charges are reset to 0 after this attack whether or not it succeeded.
+
+## Lunar
+  
+Type: Weapon Enchantment
+  
+Applicable: Any Martial Weapon
+  
+Cost: 999gp
+
+Description:
+
+This weapon gleams with the light of the moon until it is night. While outside at night , this weapon is invisible unless detected by magical means. However, whoever last caused damage with this weapon knows where it is, within 30'. While using this weapon during a Surprise Round, your attack rolls with it gain a +3.
+
+While in night conditions, any creature damaged by this weapon will take 2 Radiant damage at the beginning of their turn for 1d8 turns. This effect cannot stack more than once on a creature within 1 hour.
+
+Once per day as a standard action, you can expel moonlight from this weapon to a creature within 10' that can see you. That creature must succeed on a Constitution Saving Throw of DC 11 + Proficiency Bonus or be blinded until the end of your next turn. This ability does not require it to be night or for you to be outside to use it.
+
+## Molten
+  
+Type: Weapon Enchantment
+  
+Applicable: Any Weapon
+  
+Cost: 700gp
+
+Description:
+
+This metal of this weapon is always flowing as if it is channeling the heart of a volcano within its blade. The heat from it harms any creature sharing the same space as the wielder for 1d6 fire damage at the start of their turn. When this weapon successfully strikes foes that are wearing metal armor or are primarily made of metal in some form or another, 1d4 worth of their AC is reduced until the end of the round.
+
+Because this weapons blade is always shifting, it is slightly weaker and imposes a -1 to attack rolls but adds 1d8 fire damage to every attack. This weapon acts as a torch for the purposes of light and being able to burn items that are not worn or carried.
+
+## Polaris
+  
+Type: Weapon Enchantment
+  
+Applicable: Any Weapon
+  
+Cost: 570gp
+
+Description:
+
+The weapon is mundane until the enchantment is activated. You can as a free action cause the weapon to become astral. While astral the weapon instead damages their soul. The damage isn’t applied immediately, you can use a bonus action to speak the command word "Polaris" to cause all current unmanifested damage that you have inflicted to souls to manifest itself onto their physical bodies. Each creature instantly takes their respective amount of damage as force damage which bypasses temporary hit points. The unmanifasted damage only lasts 10 minutes and then ends without activating.
+
+## Quadruplex
+  
+Type: Weapon Enchantment
+  
+Applicable: Any Melee Weapon or Focus
+  
+Cost: 999gp
+
+Description:
+
+Through the confusion of battle comes an opportunity to work smarter, not harder. When you make a successful melee attack, you can expend one charge of this enchantment to create 3 illusionary duplicates of yourself that interact with your target in either an offensive or defensive manner.
+
+* **Offensive:** The illusionary duplicates each make an attack roll against your target. This attack roll utilizes your character's ability modifier and proficiency bonuses. These attacks deal your proficiency bonus +1 worth of magical weapon damage.
+
+* **Defensive:** The illusionary duplicates distract your target, causing them to have a -2 on attack rolls against you. If you succeed on an attack of opportunity against the target creature while you have illusionary duplicates active, the target creature must succeed on a Wisdom saving throw of 11 + your proficiency bonus. The target creature's speed is reduced to 0 until the start of their next turn on a failed save. On a successful save, one of the illusionary duplicates disappears. All of your illusionary duplicates dissipate if you are the target of a successful attack by the target creature.
+
+The enchanted weapon stores 4 charges of this ability, and requires 2 hours to recover a charge.
+
+## Scorching
+  
+Type: Weapon Enchantment
+  
+Applicable: Any Weapon
+  
+Cost: 570gp
+
+Description:
+
+This weapon is imbued with the power to ignite itself with a magical fire that does no harm to the wielder nor itself. When ignited, the next successful attack performed with this weapon does an extra 1d8 fire damage and if the target fails a DC 9 +proficiency bonus Dexterity save, catch fire (1d8 at the start of their turn and can attempt the save at the end of their turns).
+
+The weapon stores 5 charges of this ability at a time, and requires 1 hour to recover 1 charge. Alternatively, 3 charges can be expelled to throw a concentrated fire bolt for 2d10 fire damage up to 15’. Activating any amount of charges is a free action.
+
+
+## Shadow*
+  
+Type: Weapon Enchantment
+  
+Applicable: Any Weapon
+  
+Cost: 570gp
+
+Description:
+
+This weapon emanates a black smoke while unsheathed at day, but appears normal at night.
+
+You can halt a shadow once per day as a bonus action with this weapon by stabbing it with this weapon so long as they are not touching another shadow. Once stabbed, the shadow's owner must succeed on a Wisdom saving throw versus your spell save DC or be restrained. Your weapon does not need to stay stabbed into the shadow for this to maintain, but it must have pierced through the shadow into the material behind it initially. If another creature's shadow meets the restrained one, that creature must also succeed on a Wisdom saving throw or be restrained as well. Only 2 creatures shadows can be restrained at a time. Affected creatures may make another Wisdom Saving throw at the end of their turns. Being attuned to this weapon makes you immune to this effect.
+
+While in low-light conditions, this weapon deals an extra 2 magical damage, and while in complete darkness, it deals an extra 1D4+1 magical damage.
+
+Once per long rest while you are in complete darkness, you can teleport up to 10 feet to another space of complete darkness as a bonus action.
+
+## Shifting
+  
+Type: Weapon Enchantment
+  
+Applicable: Any Weapon
+  
+Cost: 200gp
+
+Description:
+
+This enchantment allows a weapons primary material to shift to the properties of another. As a bonus action, you can change the primary material of your weapon to Steel, Iron, Silver, Stone, Wood, or Copper until your next long rest. The material density will change so that the weight will remain the same no matter which is chosen. You must complete a short rest before you can change the material again.
+
+## Shock
+  
+Type: Weapon Enchantment
+  
+Applicable: Any Weapon
+  
+Cost: 650gp
+
+Description:
+
+This weapon is imbued with the power of lightning and grants you swift movement and action.
+
+When activated, you are granted +1 to attack rolls until the end of your turn, and add 1d4 lightning damage to attacks with the enchanted weapon. You are also granted the ability to use your bonus action to make an extra attack with the enchanted weapon. The weapon stores 5 charges of this ability at a time, and requires a short rest to recover 1 charge.
+
+Alternatively, 3 charges can be expelled to cast a small chain lightning spell that hits 2d4 targets for 2d4+1 lightning damage. Targets must be within 5 feet of each other to be chained and the lightning cannot double back. Add 2d4 damage if they are wearing armor made of metal or are primarily made of metal. Activating any amount of charges is a free action.
+
+
   - name: smiting
     type: weapon
     applicable:
