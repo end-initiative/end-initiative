@@ -117,7 +117,7 @@ Students who have other worldly experience have opportunities to make a commerci
 
 You need to lease a booth on Market Street for 10+1d10 gold (Fluctuating availability of spaces). Each tool kit has a different degree of difficulty associated with it that determines how hard it is to turn a profit. This takes into account start-up costs of materials and or work done.
 
-Using 1d20 + Proficiency bonus you must roll a DC 9 to break even, or by rolling a  between DC 10 & the specified DC you will earn your money back on the booth and the profit amount listed, but rolling above the listed DC will do the same but double your profit +3d4 on top of that. To work the booth you must dedicate 2 time slots to it, where the first is prep, and the second is the sale. Only one set of rolls is done though.
+Using 1d20 + Proficiency bonus you must roll a DC 9 to break even, or by rolling a  between DC 10 & the specified DC you will earn your money back on the booth and the profit amount listed, but rolling above the listed DC will do the same but double your profit +3d4 on top of that. To work the booth you must dedicate 2 time slots to it, where the assumed prep, sales, and teardown occurs. Only one set of rolls is done though to determine profit.
 
 * Alchemist's supplies: Crafting of runes (DC 16, +8 profit)
 * Brewer's supplies: Brewing of drinks (DC 15, +6 profit)
@@ -175,7 +175,7 @@ You can enjoy yourself or perform at Bridgetown's renown Gale Gill Inn. If you s
 
 You can read a book while eating and drinking while you sit on the peaceful seaside pier. Doing this gives you a +1 to the next 1d4 skill checks you perform of the subject you read about. Doing this costs 2 gold. (This reading does not count as studying).
 
-You can also enjoy yourself with the fellow patrons of the Inn by singing songs and sharing stories. Doing this gives you a Misc. +1d4 to the next time you hang out with a classmate when attempting to either further decrease their Friendship DC or recruit them to join you on a mission. Only Classmates available at night are available for this but this 1d4 counts towards all of them for up to 1 week, and then is lost. Doing this costs you 7 gold.
+You can also enjoy yourself with the fellow patrons of the Inn by singing songs and sharing stories. Doing this gives you a Misc. +1d4 to the next time you hang out with a classmate when attempting to either further decrease their Friendship DC or recruit them to join you on a mission. Only Classmates available at night are available for this but this 1d4 counts towards all of them for up to 1 week, and then is lost. Doing this costs you 6 gold.
 
 Alternatively, you can be the entertainment for the customers by performing for the night on Fifthday and Tenthday if you are proficient in Performance. Based on your performance check, you can choose what you'd like as your reward from a list. You can also invite a classmate to come see your performance. If the bonus you choose is to increase the tally for a classmate, do be aware that you cannot decrease their Friendship DC by this method, you will still need to hang out with them as described in the Classmates section for that last push. (Naturally failing still nets you a "Not Impressed" despite bonuses.)
 
@@ -225,7 +225,7 @@ Profitable Days:                1st, 2nd, 3rd, 4th, 6th, 7th, 8th, 9th
 Requirements for all services:  Outlander, Pirate, Sailor, Swashbuckler
 
 
-Students now have the option to store vessels in the harbor at the cost of 1 point per month. Each student may only store 1 vessel at a time, and said vessel must fit within the dock's parameters (25’ across maximum).
+Students now have the option to store vessels in the harbor at the cost of 1 point per month. Each student may only store 1 vessel at a time, and said vessel must fit within the dock's parameters (35’ across maximum).
 
 Additionally you can fish at the docks if you have a rod, bait, and tackle. While fishing at the docks you will have 3 chances to roll a d6 and guess your result. If within 1 of your guess, you catch a small fish that sells for 2 gold. If you match your guess, you get a big catch that sells for 4 gold. If you are an Outlander, Pirate, Sailor, or Swashbuckler, you gold yield for small fish increases by 1d4 and 1d6 for big catches. You can only fish once per day, and the dock is closed on Fifthday and Tenthday for dock upkeep and deliveries.
 
@@ -260,7 +260,7 @@ A typical potion will require 3-6 ingredients. Ingredients range from a rating o
 |  25-30    |   21    |       6      |
 |  31-45    |   23    |       7      |
 
-You can also work in the laboratory if you have proficiency in Nature or Herbology, or if you know Druidcraft or Speak With Animals. Working in the Laboratory lets you roll 1d6 and earn double what you roll. Laboratory jobs are available on Thirddday and Fourthday.
+You can also work in the laboratory if you have proficiency in Nature or Herbology, or if you know Druidcraft or Speak With Animals. Working in the Laboratory lets you roll 1d8 and earn double what you roll. Laboratory jobs are available on Thirddday and Fourthday.
 
 
 ## Library
@@ -353,11 +353,9 @@ Requirements for all services:  None
 
 The Sparring Grounds is where one goes to train their more physical skills. Additionally, you can coordinate to have team spars with other classmates at this location. Wagers of points or gold can be made if you can convince your opponents to place a bet, provided you have such currency to wager. Points can only be exchanged between students with authority of an eagle to complete the transaction. Spars are only allowed once a week so all students stay healthy and fit for when their Hawks may assign them tasks.
 
-Spars are done through a series of quick attacks where each contestant will roll attacks 3x. These spars are done with Spire provided equipment, weaponry and implements with the exception of spellbooks. Spars can only occur between two combatants that are using the same style of fighting, being melee or magical. Once the style is decided, contestants are permitted to use whatever is in their repertoire of that style for the attacks.
+Spars are done through a series of quick attacks where each participant will be allowed 3 turns of combat. Initiative will be performed as per usual, but movement and range will never be an issue. All participants can assume their attacks have sufficient range or distance for every attack. All feats and abilities are in effect, but anything that would normally reduce movement speed, either through a slowing effect, difficult terrain, or being given a status condition of Prone or Restrained will grant advantage to the next attack roll. All items and armor are allowed.
 
-Range and positioning are irrelevant in these instances and thus abilities requiring or granting bonuses for such conditions do not activate. Any attacks that would result in a condition being applied such as blindness or invisibility can still be utilized, however the effects of charmed, paralyzed, petrified, and stunned will always only last for 1 of the 3 attacks.
-
-Whoever deals the most damage within those three attacks is the chosen winner. If none hit, it is a tie and nothing is lost
+Whichever participant deals the most damage over the 3 turns is the winner of the spar. At the end of the duel, depending on how close of a match it was, you may earn friendship DC points with your opponent. If you were within 10 pts of damage dealt to each other, you earn a tally to their Friendship DC. If you happened to spar with a teammate, this does not occur.
 
 
 ## Stables
