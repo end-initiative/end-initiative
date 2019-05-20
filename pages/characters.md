@@ -263,7 +263,7 @@ A Hawk of The Spire. Supervises the Yellow Rings. He teaches the classes on Batt
 
 ## Shooshoo
 
-![ShooShoo](/assets/ShooShoo.jpg)  
+![Shooshoo](/assets/ShooShoo.jpg)  
 
 
 A Hawk of The Spire. Supervises the Black Rings. He teaches the classes on Arcana and The Mysteries of Arcana. He specializes in Sorcery
