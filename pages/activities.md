@@ -26,8 +26,6 @@ Availability:                   Always
 
 Profitable Days:                None
 
-Requirements for all services:  None
-
 
 When your character dedicates time to studies, they may choose a subject on the skills in your character sheet or of a specialty subject by the classes offered from the school. One academic and one physical skill can be trained or studied at a time.
 
@@ -79,8 +77,6 @@ Availability:                   Always
 
 Profitable Days:                2nd, 8th
 
-Requirements for all services:  Arcana proficiency, or: Druidcraft, Guidance, Prestidigitation, Produce Flame, Mage Hand
-
 The artificer’s services are up for graduated students. Every new graduate is allowed a maximum of 2 items to be improved as a graduation gift. Any further improvements require points or gold. Each point is the equivalent of 100 gold when it comes to enchantments. Prices are normally rounded up for uneven amounts, but the Artificers have been known to allow a smidge of haggling.
 
 You can also volunteer your magical services and work for the Artificer. You must be proficient in Arcana or a few other spells to be useful to him. You will roll 2d4 and receive 2 gold per the total you roll. This determines how busy he worked you and thought you earned. He accepts student help on Secondday and Eightday
@@ -91,8 +87,6 @@ You can also volunteer your magical services and work for the Artificer. You mus
 Availability:                   Always
 
 Profitable Days:                None
-
-Requirements for all services:  None
 
 
 By spending time with classmates, you can make them more willing to lend you a hand. Whenever you go on a mission that isn't delegated to you by your Hawks, you can ask classmates to come with you for assistance provided they are available.
@@ -109,8 +103,6 @@ Be aware, Classmates are only available on certain times of certain days. Learn 
 Availability:                   Always
 
 Profitable Days:                Always
-
-Requirements for all services:  Proficiency in tools
 
 
 Students who have other worldly experience have opportunities to make a commercial name for themselves in Bridgetown. If you are proficient in certain tool kits, you can use that expertise to create crafts or provide services to others with the hope of a profit.
@@ -152,8 +144,6 @@ Availability:                   Always
 
 Profitable Days:                3rd, 4th
 
-Requirements for all services:  None
-
 
 Exotic food at the market is always abound with how popular a stop Bridgetown is for the Broken Sea. By scouring the markets and partaking in unique dishes, you can give your body the edge in your next encounter.
 
@@ -167,8 +157,6 @@ While you can visit the market multiple times, boosts do not stack and the most 
 Availability:                   Night
 
 Profitable Days:                5th, 10th
-
-Requirements for all services:  Performance proficiency
 
 
 You can enjoy yourself or perform at Bridgetown's renown Gale Gill Inn. If you spend time and money here on drinks and food, you can gain additional benefits to other activities.
@@ -192,8 +180,6 @@ Availability:                   Always
 
 Profitable Days:                1st, 7th, 9th
 
-Requirements for all services:  None
-
 
 There are certain areas of Bridgetown that you can go to if you know the right people to get in on some games of chance. Attending these gambling houses requires a successful Sneak check of DC 15 to not be noticed entering and bring attention to the establishment. Failing does not waste your time. If you are proficient in disguise kits, you have advantage on this Sneak check.
 
@@ -210,8 +196,6 @@ Availability:                   Always
 
 Profitable Days:                None
 
-Requirements for all services:  None
-
 
 Sometimes the best thing to do is have a nice light meal, a warm drink, and head to sleep for the night a bit early. Doing so the day before an adventure will net you +1 on initiative rolls and +1 against Wisdom saving throws for the first encounter of your next adventure. This benefit can only be gained from sleeping in your dorm bed.
 
@@ -221,8 +205,6 @@ Sometimes the best thing to do is have a nice light meal, a warm drink, and head
 Availability:                   1st, 2nd, 3rd, 4th, 6th, 7th, 8th, 9th
 
 Profitable Days:                1st, 2nd, 3rd, 4th, 6th, 7th, 8th, 9th
-
-Requirements for all services:  Outlander, Pirate, Sailor, Swashbuckler
 
 
 Students now have the option to store vessels in the harbor at the cost of 1 point per month. Each student may only store 1 vessel at a time, and said vessel must fit within the dock's parameters (35’ across maximum).
@@ -235,8 +217,6 @@ Additionally you can fish at the docks if you have a rod, bait, and tackle. Whil
 Availability:                   3rd, 4th, 8th, 9th, 10th
 
 Profitable Days:                3rd, 4th
-
-Requirements for all services:  Herbology and Nature Proficiency, Druidcraft, Speak with Animals
 
 
 Students who are proficient in Biology or Herbology may use the laboratory to expend their ingredients in order to make potions or medicine. If you do not have the means or ingredients, services of the Lab may be purchased from the Laboratory as well. Supplies are often limited, so the Laboratory will sometimes send requests to The Spire in order to replenish their stock. You can always try and buy ingredients to use for yourself. Rolling a D20 determines if they have enough in stock for you to buy, DC 10.
@@ -269,8 +249,6 @@ Availability:                   Always
 
 Profitable Days:                None
 
-Requirements for all services:  Cloistered Scholar, Loremaster, Bard of Lore
-
 The Library provides an excellent place to study and explore for information of the land. The Spire also has exclusive texts, requiring a fee in exchange for a chance to acquire some of their knowledge.
 
 For 1 point, a student may, with supervision, read and choose 1 exclusive text in the field of a skill. 1 point lasts for a month worth of access. An exclusive text takes 3 days to finish, or 2 if you have proficiency in the subject of linguistics. When you finish reading a text, your next Studies roll you perform to attempt for a Misc. bonus will have an increased range of 14-20 instead of the normal 18-20 until you succeed at a roll. You are only allowed to read 1 exclusive text fully per week.
@@ -286,8 +264,6 @@ Availability:                   Always
 
 Profitable Days:                None
 
-Requirements for all services:  None
-
 
 The Quartermaster can get his hands on anything and everything; "I just need the time", he claims. From weapons, armor, materials, and equipment, he will do all he can to find it. A special request from the quartermaster costs 1 point, provided he doesn’t already have what you seek. A special request would be for an item that is not found in the Player's Handbook. The item you request will still have a price associated with it in addition to the point paid to find such an item. Don't ask the impossible though, you need to give a lead on where he can find the item if he himself doesn't know where to begin looking. Because the Quartermaster likes to ramble any trip to him will take some time.
 
@@ -297,8 +273,6 @@ The Quartermaster can get his hands on anything and everything; "I just need the
 Availability:                   Always
 
 Profitable Days:                Always
-
-Requirements for all services:  None
 
 
 Lots of the citizens of Bridgetown depend on students as an occasional workforce. You can take jobs from them for the day and earn gold as a reward. You may roll a d20, with a DC of 20 minus the number of skills your are proficient in, to try and find yourself a job. [Ex: if you are proficient in 4 skills, your DC is 16]. If you find a job you are proficient in, you will earn 1d6+3 gold. You can work 2 different jobs within 1 week. If you are unsuccessful in finding a job, your time for that portion of the day is wasted. Additionally, you will roll 1d20 to try and roll a natural 20 at the end of successfully working to see if you did such a good job that your employer gives you something extra for your hard work.
@@ -318,8 +292,6 @@ Availability:                   Always
 
 Profitable Days:                None
 
-Requirements for all services:  None
-
 
 While the Quartermaster has lots of items needed by adventurers, the local merchants and traders in Bridgetown may have some specialty, novelty, or more frivolous items you may find yourself wanting from time to time.
 
@@ -334,8 +306,6 @@ Availability:                   Always
 
 Profitable Days:                10th
 
-Requirements for all services:  Religion proficiency
-
 
 The Spire has a shrine building that offers respite for residents of all beliefs. The building offers many small shrines so that those of spiritual connections and beliefs may pay their respects. If you recieve benefits of power from a Deity, you can spend time at a shrine to gain another use of channel divinity for the day, or an extra 1d20 hit points for Lay on Hands. If you don't have either of these skills but still pay homage to a deity, you will receive a +1 to a type of Saving Throw for one roll for the week as determined by a d6 roll. Continual praying does not stack effects.
 
@@ -347,8 +317,6 @@ You choose to help upkeep the shrines with maintenance on Tenthday for a payout 
 Availability:                   Always
 
 Profitable Days:                None
-
-Requirements for all services:  None
 
 
 The Sparring Grounds is where one goes to train their more physical skills. Additionally, you can coordinate to have team spars with other classmates at this location. Wagers of points or gold can be made if you can convince your opponents to place a bet, provided you have such currency to wager. Points can only be exchanged between students with authority of an eagle to complete the transaction. Spars are only allowed once a week so all students stay healthy and fit for when their Hawks may assign them tasks.
@@ -363,8 +331,6 @@ Whichever participant deals the most damage over the 3 turns is the winner of th
 Availability:                   Always
 
 Profitable Days:                Always
-
-Requirements for all services:  None
 
 
 Storing horses at the stables costs 15 gold a month with a 1 time purchase of their stall for 75 gold. If you ever sell your stall, you will receive 25 gold back. Which includes that they will be fed as well. Storing things like carts costs 10 gold a month. You can work the stables anyday for 1d10 silver
