@@ -57,6 +57,7 @@ A member of the Red Rings, or "CC" (Crimson Crew). Default Friendship DC 17
 
 
 A member of the Blue Rings, or "Sky". Default Friendship DC 18
+You have learned she is actualy from Yestindale and awoke on a beach here.
 
 
 ## Everawenza
@@ -128,6 +129,7 @@ A member of the Yellow Rings, or "Warriors of Dawn". Default Friendship DC 19
 
 
 A member of the Yellow Rings, or "Warriors of Dawn". Default Friendship DC 16
+You've learned that she came into her sorceress powers while she was trying to become a Bard.
 
 
 ## Korpa
@@ -173,6 +175,7 @@ A member of the Black Rings, or "Shades". Default Friendship DC 20
 
 
 A member of the Black Rings, or "Shades". Default Friendship DC 18
+Her maces are called Judge and Executioner
 
 
 ## Jace
@@ -209,6 +212,7 @@ A member of the Black Rings, or "Shades". Default Friendship DC 21
 
 
 A member of the Black Rings, or "Shades". Default Friendship DC 25
+She meditates under the moon some nights.
 
 
 # Teachers
