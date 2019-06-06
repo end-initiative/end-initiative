@@ -10,7 +10,7 @@ The Spire is a school for learning magic and martial skills to better be suited 
 
 The school has a very consistant pattern to their days. 
 
-firstday through ninthday there are classes in the morning and afternoon, taking up time of your day and limiting you to 3 acivity slots. Tenthday and holidays are days off, freeing you up for 4 activity slots. Exams are always held on the 30th of a month, and tuition is due the 1st of a month.
+Firstday through Ninthday there are classes in the morning and afternoon, taking up time of your day and limiting you to 3 acivity slots. Tenthday and holidays are days off, freeing you up for 4 activity slots. Exams are always held on the 30th of a month, and tuition is due the 1st of a month.
 
 School is out of session for all of Flamerule, or Summertide, and tution does not need to be paid. During this time, only the dorms and meals are available officially, arrangements can be made to meet with staff if needed. And Classes are not held for the last week of the month in Nightal, or The Drawing Down, but the campus is still open.
 
@@ -21,17 +21,17 @@ If it is a graduation year, The ceremony is held on the first tenthday of Mirtul
 
 Hierarchy of the residents rank in order of Fletchling, Sparrow, Hawk, Eagle, Headmaster.
 
-* Fletchling is a new tryout who must pass their final evaluation after 3 years study or be asked to leave the university and return to retry in a year, but only needing to repeat the last year they did instead of all 3.
+* Fletchling is a new tryout student who must pass their final evaluation after 3 years study or be asked to leave the university and return to retry in 3 years, but only needing to repeat the last year they did instead of all 3. Only 30 students are accepted at a time.
 
-* Sparrows have passed their exams and are considered full student and or graduates of The Spire. Them and any level above them are considered graduates of The Spire. They are recognized by their Bronze rings on their right Ring finger.
+* Sparrows have passed their exams and are considered full student and or graduates of The Spire. on that note, they and any level above them are considered graduates of The Spire even if they do not continue their education past this level. They are recognized by their Bronze rings on their right Ring finger. They continue similar, but more advanced studies of their Fletchling days for as long as they seek. After 3 years, they become elligible to be nominated for a rank up by a Hawk and with a Headmasters approval.
 
-* Hawks are like professors, they oversee the continued education and or training of Sparrows. They have a minimum of 5 years field experience and have been recognized by the Headmasters by recommendation from an Eagle. They are recognized by Silver rings on their right Middle finger.
+* Hawks are like professors, they oversee the continued education and or training of Fletchlings and Sparrows. They have a minimum of 3 years field experience and have been recognized by the Headmasters by recommendation from a Hawk. They choose which requests to accept from citizens asking The Spire for help. They are recognized by Silver rings on their right Middle finger.
 
-* Eagles are heads of departments within The Spire. The choose which requests to accept from civilians, budgeting of various sorts for the school at large, and have been recognized and promoted to their positions by the Headmaster's themselves. They adorn Gold Rings on their right Index finger.
+* Eagles are heads of departments within The Spire. They choose which requests to accept from cities and kingdoms, budgeting of various sorts for the school at large, and have been recognized and promoted to their positions by the Headmaster's themselves. They give guidance and direction to Hawks under their department and are a first line of administration below the Headmasters. They adorn Gold Rings on their right Index finger.
 
 * Headmasters are the top of the food-chain of the school. They have final say on any matter they see the need to weigh in on and spend their days observing students and counseling with Hawks and Eagles on curriculum. The are the public speakers for The Spire when needs arise, and handle their unique political placement of a land within Presidio but outside the reach of Queen Hauvreigha. They wear one of each ring along with a Black ring that is on their thumb. Ido wears his on his left, and Iro on his right.
 
-There are other staff as well, who work at the spire outside any sort of academic purpose. A quartermaster, a cleric, a clerk, 2 cooks, 3 groundskeepers, a librarian, and a harbormaster. Each of these people hire off and on as the season demands of course. sometimes students, sometimes from Bridgetown, and sometimes as a favor to somebody coming to seek experience from them and they were able to convince them to be given a shot. Additionally at times new faces can be seen for a month or 2 at a time assisting the headmasters as errand runners but they never stay on school grounds.
+There are other staff as well, who work at the spire outside any sort of academic purpose. A quartermaster, an infirmary dedicated cleric, a clerk, cooks, groundskeepers, a Master librarian, and a harbourmaster. Each of these people hire off and on from regular people as the season demands of course. Sometimes students, sometimes from Bridgetown, and sometimes as a favor to somebody coming to seek experience from them and they were able to convince them to be given a shot. Additionally at times new faces can be seen for a month or 2 at a time assisting the headmasters as errand runners but they never stay on school grounds.
 
 There are plenty of laws for grounds of The Spire, but some are unique to get you expelled. 
 Of course there are normal laws of not killing or stealing, but those are more laws of the land that are just upheld.
@@ -40,19 +40,19 @@ Of course there are normal laws of not killing or stealing, but those are more l
 
 * You cannot interfere with the studies of another student purposefully
 
-* You cannot trespass within The Spire past Sunset without a Hawk or highers approval and supervision
+* You cannot trespass within The Spire past Sunset without a Hawk or highers approval and or supervision. Situations will vary
 
-* The Undergrounds are strictly forbidden
+* The Undergrounds are strictly forbidden to all
 
-* You cannot harm or blemish the school grounds or its foundation(Expulsion from this requires large damage)
+* You cannot harm or blemish the school grounds or its foundation beyond simple and immediant repair (Expulsion from this requires large damage)
 
 * You cannot tamper or touch any constructs, installations, or non-student related systems that The Spire has around its campus.
 
 * You may not bring great shame or dishonor to the name of The Spire through your representation to others outside the school to a point the Headmasters must get involved.
 
-* Weapons and Magic are not to be brandished outside of The Spire on school grounds beyond carrying to and from the residential's to The Spire or assisting with official school business as directed by a Hawk or higher.
+* Weapons and Magic are not to be brandished outside of The Spire's classes as directed on school grounds beyond carrying to and from the residential's to The Spire or assisting with official school business as directed by a Hawk or higher.
 
-* Materials and property of The Spire is not to leave The Spire without properly checking it out with the Clerk first.
+* Materials and property of The Spire is not to leave The Spire without properly checking it out with the proper Clerk first.
 
 * Tuition must be paid at the top of the month, or services be made up in its stead. (300gp)
 
