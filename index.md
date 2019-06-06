@@ -6,6 +6,17 @@ layout: default
 
 The Spire is a school for learning magic and martial skills to better be suited to serving the people or improving the practices. It is very exclusive for entering, as it requires the approval of both headmasters who seek talent, potential, and intrigue. It is a tall tower for its main building, with a large yard outside of it called the Court, and a centered circular area outside the front of The Spire floored with tan bricks called the Yard. Its front gate connects to the main road of Bridgetown, a business center that revels in being connected to the Spire, as they provide services to The Spire in exchange for assistance with personal requests from the students. All of this rests above a bay of ocean on a column of rock connected only by the arch of Bridgetown. There are more columns with smaller buildings that connects to the Spire, but this houses residential and recreational buildings for students and visitors. The Spire consists of where classes are held. It is an 7 story tall spire, and the column it rests on is 300 ft above water level.
 
+## Schedule
+
+The school has a very consistant pattern to their days. 
+
+firstday through ninthday there are classes in the morning and afternoon, taking up time of your day and limiting you to 3 acivity slots. Tenthday and holidays are days off, freeing you up for 4 activity slots. Exams are always held on the 30th of a month, and tuition is due the 1st of a month.
+
+School is out of session for all of Flamerule, or Summertide, and tution does not need to be paid. During this time, only the dorms and meals are available officially, arrangements can be made to meet with staff if needed. And Classes are not held for the last week of the month in Nightal, or The Drawing Down, but the campus is still open.
+
+If it is a graduation year, The ceremony is held on the first tenthday of Mirtul, or The Melting. Graduates however immediently return to classes of their new Hierarchy until classes are let out in Flamerule so Hawks and Eagles may evaluate a months worth of their efforts and progress for consideration to keep on as their new level.
+
+
 ## Hierarchy
 
 Hierarchy of the residents rank in order of Fletchling, Sparrow, Hawk, Eagle, Headmaster.
