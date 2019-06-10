@@ -89,13 +89,15 @@ Availability:                   Always
 Profitable Days:                None
 
 
-By spending time with classmates, you can make them more willing to lend you a hand. Whenever you go on a mission that isn't delegated to you by your Hawks, you can ask classmates to come with you for assistance provided they are available.
+By spending time with classmates, you can make them more willing to lend you a hand. Whenever you go on a mission that isn't delegated to you by your Hawks, you can ask classmates to come with you for assistance provided they are available. You can even see if they can help you study for a subject of exams the day before.
 
 When you ask a classmate, you need to have at least spent some time with them outside of school for them to consider it, and if you have, then you must succeed in hitting their Friendship DC with you. All classmates start at a Friendship DC that is unique to them. Normally, it takes 2 instances of spending time with them to decrease a classmates DC by 1. However, on the very first roll of these 2 rolls, you may attempt to roll with your Charisma modifier and hit their current Friendship DC to skip the 2nd instance.
 
-There is no penalty for not making the DC, you will just need another instance of spending time with them. You can only have a maximum of 2 classmates accompany your group on a mission. It takes time to ask a classmate to join you.
+There is no penalty for not making the DC, you will just need another instance of spending time with them. You can only have a maximum of 2 classmates accompany your group on a mission.
 
-Be aware, Classmates are only available on certain times of certain days. Learn their schedules to better plan your week.
+If you ask a classmate to help you study for an exam the day before the exam, you will recieve a +1d4 bonus to a skill they are proficient in of your choosing to your test roll of that subject.
+
+Be aware, Classmates are only available on certain times of certain days. Learn their schedules to better plan your week. You may only hang out with someone once per day.
 
 
 ## Crafts and Talents
@@ -109,7 +111,7 @@ Students who have other worldly experience have opportunities to make a commerci
 
 You need to lease a booth on Market Street for 10+1d10 gold (Fluctuating availability of spaces). Each tool kit has a different degree of difficulty associated with it that determines how hard it is to turn a profit. This takes into account start-up costs of materials and or work done.
 
-Using 1d20 + Proficiency bonus you must roll a DC 9 to break even, or by rolling a  between DC 10 & the specified DC you will earn your money back on the booth and the profit amount listed, but rolling above the listed DC will do the same but double your profit +3d4 on top of that. To work the booth you must dedicate 2 time slots to it, where the assumed prep, sales, and teardown occurs. Only one set of rolls is done though to determine profit.
+Using 1d20 + Proficiency bonus you must roll a DC 10 to break even, or by rolling a  between DC 11 & the specified DC you will earn your money back on the booth and the profit amount listed, but rolling above the listed DC will do the same but double your profit +3d4 on top of that. To work the booth you must dedicate 2 time slots to it, where the assumed prep, sales, and teardown occurs. Only one set of rolls is done though to determine profit.
 
 * Alchemist's supplies: Crafting of runes (DC 16, +8 profit)
 * Brewer's supplies: Brewing of drinks (DC 15, +6 profit)
@@ -176,12 +178,12 @@ Alternatively, you can be the entertainment for the customers by performing for 
 
 ## Gambling
 
-Availability:                   Always
+Availability:                   Evening and Night
 
 Profitable Days:                1st, 7th, 9th
 
 
-There are certain areas of Bridgetown that you can go to if you know the right people to get in on some games of chance. Attending these gambling houses requires a successful Sneak check of DC 15 to not be noticed entering and bring attention to the establishment. Failing does not waste your time. If you are proficient in disguise kits, you have advantage on this Sneak check.
+There are certain areas of Bridgetown that you can go to if you know the right people to get in on some games of chance. Attending these gambling houses requires a successful Sneak check of DC 15 to not be noticed entering and bring attention to the establishment. Failing does not waste your time, but prevents you from gambling that night. If you are proficient in disguise kits, you have advantage on this Sneak check.
 
 Once inside you can choose to partake in cards or dice. All gambling is a double or nothing wager with a minimum of 5 gold and a maximum of 20. All wagers are declared before games begin. Gambling is held on Firstday, Seventhday, and Ninthday.
 
@@ -265,7 +267,7 @@ Availability:                   Always
 Profitable Days:                None
 
 
-The Quartermaster can get his hands on anything and everything; "I just need the time", he claims. From weapons, armor, materials, and equipment, he will do all he can to find it. A special request from the quartermaster costs 1 point, provided he doesn’t already have what you seek. A special request would be for an item that is not found in the Player's Handbook. The item you request will still have a price associated with it in addition to the point paid to find such an item. Don't ask the impossible though, you need to give a lead on where he can find the item if he himself doesn't know where to begin looking. Because the Quartermaster likes to ramble any trip to him will take some time.
+The Quartermaster can get his hands on anything and everything; "I just need the time", he claims. From weapons, armor, materials, and equipment, he will do all he can to find it. A special request from the quartermaster costs 1 point, provided he doesn’t already have what you seek. A special request would be for an item that is not found in the Player's Handbook such as a cage with specific requirements. The item you request will still have a price associated with it in addition to the point paid to find such an item. Don't ask the impossible though, you need to give a lead on where he can find the item if he himself doesn't know where to begin looking. Because the Quartermaster likes to ramble any trip to him will take some time.
 
 
 ## Regular Job
@@ -275,7 +277,7 @@ Availability:                   Always
 Profitable Days:                Always
 
 
-Lots of the citizens of Bridgetown depend on students as an occasional workforce. You can take jobs from them for the day and earn gold as a reward. You may roll a d20, with a DC of 20 minus the number of skills your are proficient in, to try and find yourself a job. [Ex: if you are proficient in 4 skills, your DC is 16]. If you find a job you are proficient in, you will earn 1d6+3 gold. You can work 2 different jobs within 1 week. If you are unsuccessful in finding a job, your time for that portion of the day is wasted. Additionally, you will roll 1d20 to try and roll a natural 20 at the end of successfully working to see if you did such a good job that your employer gives you something extra for your hard work.
+Lots of the citizens of Bridgetown depend on students as an occasional workforce. You can take jobs from them for the day and earn gold as a reward. You may roll a d20, with a DC of 20 minus the number of skills your are proficient in, to try and find yourself a job. [Ex: if you are proficient in 4 skills, your DC is 16]. If you find a job you are proficient in, you will earn 1d6+3 gold. You can work 2 different jobs within 1 week. If you are unsuccessful in finding a job, your time for that portion of the day is wasted. Additionally, you will roll 1d20 to try and roll a 20 at the end of successfully working to see if you did such a good job that your employer gives you something extra for your hard work.
 
 |  1d4  |             DC               |
 |-------|------------------------------|
@@ -332,5 +334,6 @@ Availability:                   Always
 
 Profitable Days:                Always
 
+You  can rent a riding horse for a deposit of 75 gold, and each day the horse is gone, you pay 5 gold upon returning. If the horse is returned hurt or not returned at all, your deposit is forfeit.
 
 Storing horses at the stables costs 15 gold a month with a 1 time purchase of their stall for 75 gold. If you ever sell your stall, you will receive 25 gold back. Which includes that they will be fed as well. Storing things like carts costs 10 gold a month. You can work the stables anyday for 1d10 silver
