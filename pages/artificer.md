@@ -397,7 +397,7 @@ Alternatively, 3 charges can be expelled to cast a small chain lightning spell t
     cost: 999
     description: |
       Armor with this enchantment is imbued with the blessings of Tymora.
-      When a melee attack roll by an enemy against your AC fails, the armor gains a charge. Charges last for 1 hour and then reset to 0. At 4 charges, the next melee attack against your AC must succeed at a saving throw of DC 16 or turn into a natural 1 attack roll against your AC.
+      When you are the target of a ranged attack, the armor has a chance to magically reflect the incoming attack. As a reaction, roll 1d6 and try to guess the result. If you roll the number you guessed, you deflect the incoming attack back at the attacker at -1 their original roll. If the attack required you to make a Saving throw, they recieve a -1 to their saving throw of the reflected attack. If you are off by 1 number, you gain +1 AC to the attack or a +1 to your saving throw roll. If you are off by 2 or more, nothing happens and the attack hits you as normal. This does work on effects that target an area. This armor has 3 charges of this ability and resets after a long rest.
   - name: lunar
     type: armor
     applicable:
