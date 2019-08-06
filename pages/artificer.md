@@ -20,6 +20,8 @@ permalink: /artificer/
 
 # Enchantments
 
+----------------------------Weapon Enchantments----------------------------
+
 ## Banished
   
 Type: Weapon Enchantment
@@ -87,6 +89,7 @@ Backed by the fury of your blows, the forces of the arcane joins the swing with 
 
 When you activate a charge, the next attack done with this weapon adds 1d4 Force damage to its end result. Every consecutive blow done with this weapon adds +1 force damage while activated. At 3 consecutive hits, the target is knocked prone if it can be by the 3rd hit. This weapon holds 7 charges and all charges are restored on a long rest. Alternatively, 3 charges can be expelled as a standard action to launch 1 force bolt as if using the Magic Missile spell at 1d10 force damage Activating any amount of charges is a free action.
       
+      
 ## Impulsing
   
 Type: Weapon Enchantment
@@ -120,6 +123,7 @@ Description:
 
 This weapon is attuned to be sensitive to life energy and all the intricacies of how they work together. While wielding this weapon, you gain a +2 to Insight checks, but your visions are also increased by 20 feet. And once per day you gain 5 feet of blindsense for 12 seconds.
       
+      
 ## Loyalty
   
 Type: Weapon Enchantment
@@ -136,6 +140,7 @@ If it is a piercing weapon and collides with a creature on its return, roll an a
 
 Though you cannot recall a held or restrained weapon or implement, it will try to move towards you with the little strength it offers. The weapon can exert as much force as how much it weighs.
       
+      
 ## Lucky
   
 Type: Weapon Enchantment
@@ -145,6 +150,7 @@ Applicable: Any Weapon
 Cost: 500gp
   
 Description: A magical weapon imbued with the blessings of Tymora. When you succeed on an attack roll against an enemy creature with this weapon, it gains a charge. Charges last for 1 hour and then reset to 0. At 4 charges, the next attack with the weapon has its critical hit range increased to 6-20. Additionally you do 4d4 extra magical damage for that attack. Charges are reset to 0 after this attack whether or not it succeeded.
+
 
 ## Lunar
   
@@ -162,6 +168,7 @@ While in night conditions, any creature damaged by this weapon will take 2 Radia
 
 Once per day as a standard action, you can expel moonlight from this weapon to a creature within 10' that can see you. That creature must succeed on a Constitution Saving Throw of DC 11 + Proficiency Bonus or be blinded until the end of your next turn. This ability does not require it to be night or for you to be outside to use it.
 
+
 ## Molten
   
 Type: Weapon Enchantment
@@ -176,6 +183,7 @@ This metal of this weapon is always flowing as if it is channeling the heart of 
 
 Because this weapons blade is always shifting, it is slightly weaker and imposes a -1 to attack rolls but adds 1d8 fire damage to every attack. This weapon acts as a torch for the purposes of light and being able to burn items that are not worn or carried.
 
+
 ## Polaris
   
 Type: Weapon Enchantment
@@ -187,6 +195,7 @@ Cost: 570gp
 Description:
 
 The weapon is mundane until the enchantment is activated. You can as a free action cause the weapon to become astral. While astral the weapon instead damages their soul. The damage isn’t applied immediately, you can use a bonus action to speak the command word "Polaris" to cause all current unmanifested damage that you have inflicted to souls to manifest itself onto their physical bodies. Each creature instantly takes their respective amount of damage as force damage which bypasses temporary hit points. The unmanifasted damage only lasts 10 minutes and then ends without activating.
+
 
 ## Quadruplex
   
@@ -205,6 +214,7 @@ Through the confusion of battle comes an opportunity to work smarter, not harder
 * **Defensive:** The illusionary duplicates distract your target, causing them to have a -2 on attack rolls against you. If you succeed on an attack of opportunity against the target creature while you have illusionary duplicates active, the target creature must succeed on a Wisdom saving throw of 11 + your proficiency bonus. The target creature's speed is reduced to 0 until the start of their next turn on a failed save. On a successful save, one of the illusionary duplicates disappears. All of your illusionary duplicates dissipate if you are the target of a successful attack by the target creature.
 
 The enchanted weapon stores 4 charges of this ability, and requires 2 hours to recover a charge.
+
 
 ## Scorching
   
@@ -251,6 +261,7 @@ Description:
 
 This enchantment allows a weapons primary material to shift to the properties of another. As a bonus action, you can change the primary material of your weapon to Steel, Iron, Silver, Stone, Wood, or Copper until your next long rest. The material density will change so that the weight will remain the same no matter which is chosen. You must complete a short rest before you can change the material again.
 
+
 ## Shock
   
 Type: Weapon Enchantment
@@ -268,80 +279,116 @@ When activated, you are granted +1 to attack rolls until the end of your turn, a
 Alternatively, 3 charges can be expelled to cast a small chain lightning spell that hits 2d4 targets for 2d4+1 lightning damage. Targets must be within 5 feet of each other to be chained and the lightning cannot double back. Add 2d4 damage if they are wearing armor made of metal or are primarily made of metal. Activating any amount of charges is a free action.
 
 
-  - name: smiting
-    type: weapon
-    applicable:
-      - Any Weapon
-    cost: 500
-    description: |
-      Adds 1d8 damage against any fiend, undead or were-creature, monstrosities. If you have the Class Feature Channel Divinity, increase this damage to 1d10.
-  - name: sprout
-    type: weapon
-    applicable:
-      - Any Weapon, Any Implement
-    cost: 999
-    description: |
-      In harmony with the forces of nature, you command growth and decay.
+## Smiting
+
+Type: Weapon Enchantment
+
+Applicable: Any Weapon
+
+Cost: 500
+
+Description:
+
+Adds 1d8 damage against any fiend, undead or were-creature, monstrosities. If you have the Class Feature Channel Divinity, increase this damage to 1d10.
+
+
+## Sprout
+
+Type: Weapon Enchantment
+
+Applicable: Any Weapon, Any Implement
+
+Cost: 999
+
+Description:
+
+In harmony with the forces of nature, you command growth and decay.
       Three times per day as a standard action, you can point to a single area with this weapon to cause 1 of 3 effects to take effect within a 20 foot range.
+      
       1. Vines grow from the ground at point you can see and grip at any creatures within a 15 feet cube. Creatures within the area must make a DC 11+Proficiency Bonus Dexterity Saving Throw or be restrained. Creatures can attempt another Dexterity Saving Throw at the end of their turns. This effect requires the ground to be dirt or a layer of stone no thicker than 5 feet.
+      
       2. Thorns launch out from the ground and attack all creatures within a 15 foot cube, forcing them to make a Dexterity Saving Throw with a DC of 12+ Proficiency Bonus or they take 2d4+1 piercing damage. On a successful save they take half damage. This effect requires the ground to be dirt or a layer of stone no thicker than 5 feet.
+      
       3. You target a plant no larger than a 5 feet diameter and 20 feet in height to wilt and become brittle for 1 hour or until ended as another bonus action. While wilted, creatures who move onto the plant or are already on it must succeed on a Dexterity Saving Throw with a DC equal to their weight/5 or collapse the plant and fall prone. If the plant is less than 5 feet diameter and 5 feet tall then a creature already on the plant or first moving onto the plant will automatically crumble. If the plant is not destroyed during the wilt effect, it returns to its former state with no ill effects. This effect does not work on sentient plants.
-  - name: suspended
-    type: weapon
-    applicable:
-      - Any Corporeal Item
-    cost: 300
-    description: |
-      An item with this enchantment will remain frozen in space when nothing is touching it. It is considered weightless and offers no surface for physical deflection or support if it is in its suspended state. It is not prone to being used in a thrown or dropped capacity, as if it were to be used in either action, it would stop moving as soon as it was released.
+      
+      
+## Suspended
+
+Type: Weapon Enchantment
+
+Applicable: Any Corporeal Item
+
+Cost: 300
+
+Description:
+
+An item with this enchantment will remain frozen in space when nothing is touching it. It is considered weightless and offers no surface for physical deflection or support if it is in its suspended state. It is not prone to being used in a thrown or dropped capacity, as if it were to be used in either action, it would stop moving as soon as it was released.
       Examples:
       * If it is set atop a table, and the table falls out from under it, it would stay.
       * If disarmed by a creature in combat it would not drop to the floor, but remain in your immedient location midair.
       * If held out and released, it would float. However, if you were to press on it as if trying to climb, you would immediately push it down with no resistance.
-  - name: thunderous
-    type: weapon
-    applicable:
-      - Any Weapon
-    cost: 600
-    description: |
-      This weapon is imbued with the power of thunder and grants you the ability to push foes with your blows.
-      When activated, this weapon adds 1d4 thunder damage to attacks with it until the end of your turn.
-      Each creature hit with this weapon must make a DC 10 + Proficiency Saving Throw or be pushed back 5 feet for every 5 hit points of damage done. If a target is slammed into a wall or obstacle that would stop their movement, they take another 1d4 bludgeoning damage. If that obstacle is another creature, that creature must make a DC 10 + Proficiency Strength Saving Throw or take the same amount of bludgeoning damage.
+      
+      
+## Thunderous
+
+Type: Weapon Enchantment
+
+Applicable: Any Weapon
+
+Cost: 600
+
+Description:
+
+This weapon is imbued with the power of thunder and grants you the ability to push foes with your blows.
+When activated, this weapon adds 1d4 thunder damage to attacks with it until the end of your turn. Each creature hit with this weapon must make a DC 10 + Proficiency Saving Throw or be pushed back 5 feet for every 5 hit points of damage done. If a target is slammed into a wall or obstacle that would stop their movement, they take another 1d4 bludgeoning damage. If that obstacle is another creature, that creature must make a DC 10 + Proficiency Strength Saving Throw or take the same amount of bludgeoning damage.
       The weapon stores 5 charges of this ability at a time, and requires 1 hour to recover 1 charge.
       Alternatively, 2 charges can be expelled to grant your next strike a 15 foot cone shaped version of Thunderwave, cast from your position. Creatures within range need to succeed on a DC 12 + Proficiency Bonus Strength saving throw or suffer 1d8 thunder damage and be pushed back 10 feet and knocked prone. On a successful save they take half damage and are not pushed back or knocked prone.
       Activating any amount of charges is a free action.
-  - name: transforming
-    type: weapon
-    applicable:
-      - Any Metal Weapon
-    cost: 375
-    description: |
-      As a bonus action this weapon can be transformed into armored gauntlets, another weapon of same damage type and material, or into a shield.
-      When transformed into gauntlets, the wearer gains +1 AC and their unarmed attacks turn into 1d4. If the wearer is a Monk, it increases to whatever they use for their unarmed attacks +1 for d4's, +2 for d6's, +3 for d8's, and +4 for d8's. The weapon can only last as gauntlets for 3 rounds of combat and then must spend 2 rounds again as a weapon before transforming back into the gauntlets.
-      As gauntlets they do not count as armor for the purpose of any effects.
-  - name: whispering
-    type: weapon
-    applicable:
-      - Any Corporeal Item
-    cost: 175
-    description: |
-      When you point this weapon at a creature within 20 feet, you can think of a short sentence and send it telepathically to their mind as if using the Message spell. However unlike the message spell, you and the target do not have to share a language for them to be sent a message, but they may not understand it. Can only be used twice per hour.
-  - name: aquias
-    type: armor
-    applicable:
-      - Any Heavy Armor
-    cost: 250
-    description: |
-      Armor enchanted with this acts normal until in or near water. Once submerged, it gains magical scales that lays atop the metal and fins and ethereal webbing sprout along it.
+      
+      
+## Transforming
+
+Type: Weapon Enchantment
+
+Applicable: Any Metal Weapon
+
+Cost: 375
+
+Description:
+
+As a bonus action this weapon can be transformed into armored gauntlets, another weapon of same damage type and material, or into a shield.
+      When transformed into gauntlets, the wearer gains +1 AC and their unarmed attacks turn into 1d4. If the wearer is a Monk, it increases to whatever they use for their unarmed attacks +1 for d4's, +2 for d6's, +3 for d8's, and +4 for d8's. The weapon can only last as gauntlets for 3 rounds of combat and then must spend 2 rounds again as a weapon before transforming back into the gauntlets. As gauntlets they do not count as armor for the purpose of any effects.
+      
+      
+## Whispering
+Type: Weapon Enchantment
+Applicable: Any Corporeal Item
+Description:
+When you point this weapon at a creature within 20 feet, you can think of a short sentence and send it telepathically to their mind as if using the Message spell. However unlike the message spell, you and the target do not have to share a language for them to be sent a message, but they may not understand it. Can only be used twice per hour.
+
+----------------------------Armor Enchantments----------------------------
+
+## Aquias
+
+Type: Armor Weapon
+
+Applicable: Any Heavy Armor
+
+Cost: 250
+
+Description:
+
+Armor enchanted with this acts normal until in or near water. Once submerged, it gains magical scales that lays atop the metal and fins and ethereal webbing sprout along it.
       While wearing heavy armor with the Aquias trait while up to at least the neck line from the feet in water, it is treated as light armor and offers a +3 on Athletic checks. Furthermore, your movement speed is increased by 15’ and you can jump up to 5’ straight up from the water.
       If you are within 30’ of a body of water of at least a 5x5x2 squares, the armor gains 5’ of movement speed, a +1 to athletic checks, and the armor counts as medium armor.
-  - name: blessed
-    type: armor
-    applicable:
-      - Common Clothes
-      - Robes
-    cost: 275
-    description: |
-      When you receive healing effects from spells while wearing Blessed clothes, you gain an additional 1d10 temporary hit points per 10 points healed. You do not gain any for less than 10 hit points healed. These temporary hit points do not stack after one instance of healing.
+      
+      
+## Blessed
+Type: armor
+Applicable: Common Clothes, Robes
+Cost: 275
+Description:
+When you receive healing effects from spells while wearing Blessed clothes, you gain an additional 1d10 temporary hit points per 10 points healed. You do not gain any for less than 10 hit points healed. These temporary hit points do not stack after one instance of healing.
       If the wearer of Blessed clothes casts a healing spell, they can add an additional 1d6 health restored by the spell per spell level.
       These effect can each only be used twice per day.
   - name: comfortable
