@@ -27,7 +27,9 @@ Availability:                   Always
 Profitable Days:                None
 
 
-When your character dedicates time to studies, they may choose a subject on the skills in your character sheet or of a specialty subject by the classes offered from the school. It is assumed that you spend time as often as you can studying. By spending time studying, you will gain 1 tally into the subject of your choice. If you have a book on a subject that is not from The Spire library resources, you can earn 2 tallys instead of one. At 5 points, you can attempt a d20 roll, and on a 18-20, you gain a permanent +1 misc. bonus to that skill.
+When your character dedicates time to studies, they may choose a subject on the skills in your character sheet or of a specialty subject by the classes offered from the school. It is assumed that you spend time as often as you can studying. By spending time studying, you will gain 1 tally. At 5 points, you can attempt a d20 roll into a skill you call out ahead of time, and on a 18-20, you gain a permanent +1 misc. bonus to a skill of your choice.
+
+If you have a book on a subject that is not from The Spire library resources, you can earn 2 tallys instead of one from reading it, but that subject has its own tallys separate from the normal pool of tallys, known as specific tallys. At 5 specific tallys, you may make a d20 roll for that skill, and on a 11-20, you gain a permanent +1 misc. bonus to that skill.
 
 All students have a class that they naturally excelled in during their fletchling days, and carries on into their time as a Sparrow. Starting as a Sparrow, you automatically have a +1 in one specialty subject and are proficient in it. From there on, you must gain a +3 misc. bonus in another specialty subject through studying to gain proficiency in that subject as well.
 
@@ -74,6 +76,7 @@ Availability:                   Always
 Profitable Days:                2nd, 8th
 
 The artificer’s services are up for graduated students. Every new graduate is allowed a maximum of 2 items to be improved as a graduation gift. Any further improvements require points or gold. Each point is the equivalent of 100 gold when it comes to enchantments. Prices are normally rounded up for uneven amounts, but the Artificers have been known to allow a smidge of haggling.
+Come to then for less orthodox tinkerings to see if they can help you.
 
 You can also volunteer your magical services and work for the Artificer. You must be proficient in Arcana or a few other spells to be useful to him. You will roll 2d4 and receive 2 gold per the total you roll. This determines how busy he worked you and thought you earned. He accepts student help on Secondday and Eightday
 
@@ -91,7 +94,7 @@ When you ask a classmate, you need to have at least spent some time with them ou
 
 There is no penalty for not making the DC, you will just need another instance of spending time with them. You can only have a maximum of 2 classmates accompany your group on a mission.
 
-If you ask a classmate to help you study for an exam the day before the exam, you will recieve a +1d4 bonus to a skill they are proficient in of your choosing to your test roll of that subject.
+If you ask a classmate to help you study for an exam the day before the exam, you will recieve a +1d6 bonus to a skill they are proficient in of your choosing to your test roll of that subject.d
 
 Be aware, Classmates are only available on certain times of certain days. Learn their schedules to better plan your week. You may only hang out with someone once per day.
 
@@ -154,7 +157,7 @@ While you can visit the market multiple times, boosts do not stack and the most 
 
 Availability:                   Night
 
-Profitable Days:                5th, 10th
+Profitable Days:                3rd, 5th, 8th, 10th
 
 
 You can enjoy yourself or perform at Bridgetown's renown Gale Gill Inn. If you spend time and money here on drinks and food, you can gain additional benefits to other activities.
@@ -273,13 +276,13 @@ Availability:                   Always
 Profitable Days:                Always
 
 
-Lots of the citizens of Bridgetown depend on students as an occasional workforce. You can take jobs from them for the day and earn gold as a reward. You may roll a d20, with a DC of 20 minus the number of skills your are proficient in, to try and find yourself a job. [Ex: if you are proficient in 4 skills, your DC is 16]. If you find a job you are proficient in, you will earn 1d6+3 gold. You can work 2 different jobs within 1 week. If you are unsuccessful in finding a job, your time for that portion of the day is wasted. Additionally, you will roll 1d20 to try and roll a 20 at the end of successfully working to see if you did such a good job that your employer gives you something extra for your hard work.
+Lots of the citizens of Bridgetown depend on students as an occasional workforce. You can take jobs from them for the day and earn gold as a reward. You may roll a d20, with a DC of 20 minus the number of skills your are proficient in, to try and find yourself a job. [Ex: if you are proficient in 4 skills, your DC is 16]. If you find a job you are proficient in, you will earn 1d6+3 gold. You can work 2 different jobs within 1 week. If you are unsuccessful in finding a job, your time for that portion of the day is wasted. Additionally, you will roll 1d20 to try and roll a 19 or 20 at the end of successfully working to see if you did such a good job that your employer gives you something extra for your hard work.
 
 |  1d4  |             DC               |
 |-------|------------------------------|
 |   1   | Free book from the bookstore |
 |   2   | Free culinary meal           |
-|   3   | 1d6 gold                     |
+|   3   | 1d12 gold                    |
 |   4   | roll for a Trinket           |
 
 
@@ -317,11 +320,7 @@ Availability:                   Always
 Profitable Days:                None
 
 
-The Sparring Grounds is where one goes to train their more physical skills. Additionally, you can coordinate to have team spars with other classmates at this location. Wagers of points or gold can be made if you can convince your opponents to place a bet, provided you have such currency to wager. Points can only be exchanged between students with authority of an eagle to complete the transaction. Spars are only allowed once a week so all students stay healthy and fit for when their Hawks may assign them tasks.
-
-Spars are done through a series of quick attacks where each participant will be allowed 3 turns of combat. Initiative will be performed as per usual, but movement and range will never be an issue. All participants can assume their attacks have sufficient range or distance for every attack. All feats and abilities are in effect, but anything that would normally reduce movement speed, either through a slowing effect, difficult terrain, or being given a status condition of Prone or Restrained will grant advantage to the next attack roll. All items and armor are allowed.
-
-Whichever participant deals the most damage over the 3 turns is the winner of the spar. At the end of the duel, depending on how close of a match it was, you may earn friendship DC points with your opponent. If you were within 10 pts of damage dealt to each other, you earn a tally to their Friendship DC. If you happened to spar with a teammate, this does not occur.
+The Sparring Grounds is where one goes to train their more physical skills. Many students spend time here multiple times a week to test out new moves or maintain their prowess. Rolling 1d10, a random student will be selected for who is in the sparring grounds. The student will ask for your help or challenge you in some way as described by the DM. Completing this task sufficiently gives you a specific tally into a physical skill and an attempt to further your friendship with whatever classmate you practiced with.
 
 
 ## Stables
