@@ -3,22 +3,23 @@ title: Activities
 layout: default
 permalink: /activities/
 ---
-- Academics
-- Artificer
-- Classmates
-- Crafts & Talents
-- Culinary Indulgence
-- Gale Gill Inn
-- Gambling
-- Good Night's Sleep
-- Harbor
-- Laboratoy
-- Library Quartermaster
-- Regular Job
-- Shopping
-- Shrine
-- Sparring Ground
-- Stables
+- [Academics](#academics)
+- [Artificer](#artificer)
+- [Classmates](#classmates)
+- [Crafts & Talents](#crafts--talents)
+- [Culinary Indulgence](#culinary-indulgence)
+- [Gale Gill Inn](#gale-gill-inn)
+- [Gambling](#gambling)
+- [Good Night's Sleep](#good-nights-sleep)
+- [Harbor](#harbor)
+- [Laboratory](#laboratory)
+- [Library](#library)
+- [Quartermaster](#quartermaster)
+- [Regular Job](#regular-job)
+- [Shopping](#shopping)
+- [Shrine](#shrine)
+- [Sparring Grounds](#sparring-grounds)
+- [Stables](#stables)
 
 ## Academics
 
@@ -99,7 +100,7 @@ If you ask a classmate to help you study for an exam the day before the exam, yo
 Be aware, Classmates are only available on certain times of certain days. Learn their schedules to better plan your week. You may only hang out with someone once per day.
 
 
-## Crafts and Talents
+## Crafts & Talents
 
 Availability:                   Always
 
