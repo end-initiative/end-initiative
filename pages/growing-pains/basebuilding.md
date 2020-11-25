@@ -1,7 +1,7 @@
 ---
 title: Base Building
 layout: gp
-permalink: /gp/base-build
+permalink: /growing-pains/basebuild
 ---
 
 ## Why you should improve your Guild
