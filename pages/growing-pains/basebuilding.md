@@ -1,6 +1,7 @@
 ---
 title: Base Building
-layout: gp
+layout: growing-pains/default
+
 permalink: /growing-pains/basebuild
 ---
 
