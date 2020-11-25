@@ -1,7 +1,7 @@
 ---
 title: Locations
 layout: default
-permalink: /locations/
+permalink: /rof/locations/
 ---
 ## Teyluu
 

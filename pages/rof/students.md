@@ -1,7 +1,7 @@
 ---
 title: Teaching Students
 layout: default
-permalink: /students/
+permalink: /rof/students/
 ---
 As an unorthadox means to test you for an early graduation into Hawks, the Headmasters wish to see how well you can perform the duties of a teacher to Fletchlings. You are the first of a new test group of hierarchy, now dubbed Falcons. You each can choose to teach the students in a skill or specialty subject you have at least a +3 in. Fletchlings will take tests just like you that is determined by their collective knowledge and skills (to be referenced as the Knowledge Pool), and their performance as an overall group will determine your standing. You will each have to teach 1 class a week on your own free time, using up that time slot. 
 
