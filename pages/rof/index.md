@@ -1,6 +1,7 @@
 ---
 title: The Spire
-layout: default
+layout: rof
+permalink: /rof
 ---
 ## Background
 

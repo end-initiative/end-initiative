@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<nav>
+  {% for item in site.data.gp-navigation %}
+  <a href="{{ item.link }}">
+    {{ item.name }}
+  </a>
+  {% unless item == site.data.gp-navigation.last %}&nbsp;-&nbsp;{% endunless %}
+{% endfor %}
+</nav>
+{{content}}

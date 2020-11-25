@@ -1,7 +1,7 @@
 ---
 title: Artificer
 layout: default
-permalink: /artificer/
+permalink: /rof/artificer/
 ---
 ## Using the Artificer
 

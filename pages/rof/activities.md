@@ -1,7 +1,7 @@
 ---
 title: Activities
 layout: default
-permalink: /activities/
+permalink: /rof/activities/
 ---
 - [Academics](#academics)
 - [Artificer](#artificer)

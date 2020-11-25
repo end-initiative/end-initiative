@@ -1,7 +1,7 @@
 ---
 title: Characters
 layout: default
-permalink: /characters/
+permalink: /rof/characters/
 ---
 # Students
 

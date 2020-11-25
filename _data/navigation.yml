@@ -1,12 +1,4 @@
-- name: The Spire
-  link: /
-- name: Locations
-  link: /locations
-- name: Characters
-  link: /characters
-- name: Activities
-  link: /activities
-- name: Artificer
-  link: /artificer
-- name: Teaching Students
-  link: /students
+- name: Growing Pains
+  link: /gp
+- name: Remnants of Faerun
+  link: /rof
