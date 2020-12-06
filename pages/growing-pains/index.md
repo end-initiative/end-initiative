@@ -1,15 +1,48 @@
 ---
-title: Olerann
+title: Overview
 layout: growing-pains/default
 permalink: /growing-pains
 ---
 
-# A History of Olerann
+## Levels
 
-The city of Olerann is the capital city of the Grydius Kingdom. It is over a millennia in age, and was started as a bastion of defense for the Hruvant Kingdom against an invading army of Kobolds from across the sea. The bastion, then dubbed Grydius Keep, had built itself firmly into the bay and went to become the host of a city once the threat of invasion was eradicated. Time went on and people flocked to the flourishing city as strong walls and outposts were built along the coast. The sea and mountains provided many resources, and the general who served as the garrison lead, Roctivus Lonfal, was appointed duke of the territory. The land exponentially grew under his families lead, and few openly held complaints for how he managed the territory.
+Characters start at level 2, with a choice to take standard array system but replace the 8 with a 10. Character progression will use the milestone leveling system.
 
-A few generations passed and eventually the great grandchild of the duke, Xirvin Lonfal, declared independence from the Hruvant Kingdom. Having gained the support of 3 other key territories surrounding the city, a small war was raged for a years time before the Hruvant Kingdom decided the death was not worth the effort and agreed to cede the city so long as it got to maintain their trade regulations for at least 25 more years. The agreement was made, and after a decade, things became amicable between the two kingdoms. Xirvin named the newly independant kingdom Grydius, in homage to his father.
+## Allowed Races
 
-Centuries passed with little notable events of massive scale, but then, Levanim, one of the descendants of Grydius became infatuated with worshiping a multitude of deities. Over the centuries, Olerann became a center for religious freedom as many a following opened a small branch inside the kingdom. Unfortunately in the following century, the son of Levanim, Tromire, declared his devotion to Pelor, the Good God of Sun, Agriculture and Time. along this course of favoritism, a small group who secretly followed The Raven Queen sought to make Tromire pay for his favoritism. Through sabotage and corruption in the highest echelons of the Kings court, a plot to have Tromire hold a ceremony of celebration to Pelor and appear was carried out. Once Pelor humored the invitation with a connection to them, The Raven Queen was unleashed and sought to harm Pelor to the point that they would abandon the land of their blessings. Their battle started to tear the land around them asunder as fissures were torn open, and waves began crashing against the walls and began destroying the exposed coast line. Before too much damage could be done, a rift was torn open in the sky and 2 winged beings swiftly exited from it. these beings single handedly wrestled the two quarreling deities apart from one another and banished each from the land through more rifts. As soon as they had showed up, they vanished together. Nobody has been able to link who these two beings were, but many started to worship them as new saviors of the world and protectors who watch over all. A religion was started under these new beings, dubbed Va and Zu by a seer who had attempted to reach out to them.
+- All from the players handbook excluding tiefling varient
+- Changeling
+- Firbolg
+- Air and Earth Genasi
+- Kenku
+- Satyr
+- Tabaxi (but can't be a monk)
 
-Under the corruption and carelessness of Lonfal family, the people demanded a change of leadership. Under threat of a rebellion, and fearing the unknown entities that evidently were watching, Tromire Lonfal agreed to hand off the throne to the leader of the rebellion if he and his family would be permitted to keep his families possessions, protections, and lifestyle within the city. The new king appointed was a high elf named Aneanan who had been living in Olerann for over 400 years, and upon accepting the Lonfal throne, immediately called for the creation of a Parliament that would seat as many races it could for the city. Things have been pleasant in Olerann since Aneanan took the throne. He keeps himself out of political affairs unless there is a deadlock in Parliament or a an emergency of the highest order presents itself.
+## Classes
+
+I would appreciate if subclasses from Fall of Faerun were tried to aid me in seeing how they perform, but Player's Handbook subclasses, Xanathar's subclasses, and Artificer are allowed. Tasha's is allowed as well.
+
+## Spells
+
+Spells found in Player's Handbook, Xanathars, Tasha's, and Fall of Faerun are allowed.
+
+## Equipment
+
+You may use all equipment found in the Player's Handbook, Xanathars, and Fall of Faerun.
+
+Do note that new weapons and armor are available in the Fall of Faerun. Take whatever combination of your starting equipment you wish, but you cannot sell it before the game starts. Additionally, merchants are going to be more stingy about buying used goods in this world, so be warry when you decide how to build yourself. We will be playing with the shield varient equipment, but you cannot take a varient shield as a starting shield. Though you can pay extra gold at the start to make it so you can start with a varient shield.
+
+## Feats
+
+I will be allowing you to take a feat for free at your 3rd level, so be prepared for that. Feats available from the continued aforementioned resources are allowed.
+
+## Additional Notes
+
+- There will be no starting magic items.
+- There is no unusual bearing on the conditions of religion or magic in this world.
+- Characters should all be around 16, give or take a year or two. Or be the equivalent of 16 in human years compared to their race.
+- You all will have gone to the same public school together as friends in a capital city, so there shouldn't be any extreme poverty cases. Consider your upbringing middle class. If you want, think of your parents as well and what they do.
+- The district you are all from is Camreo.
+- Everyone will be working towards a common goal involving a system that requires gold investment
+- The established world finds itself in an era following the divine intervention of 2 deities who appeared all of a sudden to quell the feuding of others. Though there is no single theocracy, some lords and kingdoms have chosen to worship these new beings themselves. Your city does not persecute for not being devote. (If you desire more information on these beings for the purpose of your character, reach out to me).
+- DONT FORGET YOUR BACKGROUND
