@@ -1,9 +1,0 @@
-title: End Initiative
-description: End Initiative campaign listing
-baseurl: ""
-url: "https://end-initiative.com/"
-theme: jekyll-theme-modernist
-
-collections:
-  content:
-    permalink: /:path

@@ -1,0 +1,22 @@
+{
+  "name": "end-initiative",
+  "version": "0.1.0",
+  "description": "End Initiative's Website",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/end-initiative/end-initiative.git"
+  },
+  "author": {
+    "name": "Mason McAllaster",
+    "url": "https://github.com/McAllaster"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/end-initiative/end-initiative/issues"
+  },
+  "homepage": "https://github.com/end-initiative/end-initiative#readme"
+}
